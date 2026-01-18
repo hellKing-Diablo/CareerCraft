@@ -88,6 +88,27 @@ Create a `.env` file in the root directory:
 # Get your key from: https://console.groq.com/keys
 VITE_GROQ_API_KEY=your_api_key_here
 ```
+**Enter This CODE in env.example file**
+# Mistral API Key
+# Get your key from: https://console.mistral.ai/api-keys/
+# Uses Devstral 2 (devstral-small-2505) for AI features
+VITE_MISTRAL_API_KEY=dUKRr5VjGQ9zLEDPBFkkFTv7VqjFgWdP
+
+# Firebase Configuration (Optional - for cloud sync)
+# Get your config from: https://console.firebase.google.com/
+# Create a new project > Web app > Copy config values
+VITE_FIREBASE_API_KEY=AIzaSyCbWEyxcR69MyEvMNre5RqNMaNLLWB3Xlo
+VITE_FIREBASE_AUTH_DOMAIN=skillsaga-94408.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=skillsaga-94408
+VITE_FIREBASE_STORAGE_BUCKET=skillsaga-94408.firebasestorage.app
+VITE_FIREBASE_MESSAGING_SENDER_ID=255284097070
+VITE_FIREBASE_APP_ID=1:255284097070:web:5130b832c00634dec86fbf
+
+# Set to 'true' to use Firebase emulator for local development
+VITE_USE_FIREBASE_EMULATOR=false
+
+
+**Enter the Mistral
 
 
 ## Test Credentials
