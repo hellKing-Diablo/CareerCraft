@@ -1,4 +1,4 @@
-# CareerCraft
+# SkillSaga
 
 A gamified healthcare technology career guidance platform with AI-powered personalized recommendations. Build your skills, track your progress, and achieve your career goals.
 
@@ -10,7 +10,7 @@ A gamified healthcare technology career guidance platform with AI-powered person
 - **Progress Tracking** - Track skill levels (0-5) with visual progress indicators
 - **Career Goals** - Set short-term and long-term career objectives
 
-### AI-Powered Features (Groq - FREE)
+### AI-Powered Features (Devstral 2 - FREE)
 - **Dashboard Insights** - Personalized career recommendations based on your profile
 - **Learning Path Generation** - Step-by-step roadmap to reach your goals
 - **Skill Guidance** - Detailed tips, resources, and practice ideas for each skill
@@ -89,21 +89,8 @@ Create a `.env` file in the root directory:
 VITE_GROQ_API_KEY=your_api_key_here
 ```
 
-### Getting a FREE Groq API Key
-
-1. Go to [https://console.groq.com/keys](https://console.groq.com/keys)
-2. Sign up for a free account (no credit card required)
-3. Create a new API key
-4. Copy the key to your `.env` file
-
-**Groq Free Tier Limits:**
-- 30 requests/minute
-- 14,400 requests/day
-- Access to Llama 3.1 8B and Llama 3.3 70B models
 
 ## Test Credentials
-
-This application uses **client-side storage only** (localStorage). No login is required.
 
 To load sample data for testing:
 1. Go to **Settings** page
