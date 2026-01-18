@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "software-development",
+    "domain": "Software Development",
+    "category": "Technology",
+    "jobs": ["Software Engineer", "Frontend Developer", "Backend Developer", "Full Stack Developer", "Mobile App Developer", "DevOps Engineer", "Software Architect", "QA Engineer", "Site Reliability Engineer"]
+  },
+  {
+    "id": "data-science",
+    "domain": "Data Science",
+    "category": "Technology",
+    "jobs": ["Data Scientist", "Data Analyst", "Machine Learning Engineer", "Data Engineer", "Business Intelligence Analyst", "Quantitative Analyst", "Research Scientist"]
+  },
+  {
+    "id": "artificial-intelligence",
+    "domain": "Artificial Intelligence",
+    "category": "Technology",
+    "jobs": ["AI Engineer", "ML Research Scientist", "NLP Engineer", "Computer Vision Engineer", "AI Product Manager", "Robotics Engineer", "Deep Learning Engineer"]
+  },
+  {
+    "id": "cybersecurity",
+    "domain": "Cybersecurity",
+    "category": "Technology",
+    "jobs": ["Security Analyst", "Penetration Tester", "Security Engineer", "CISO", "Incident Response Analyst", "Security Architect", "Cryptographer", "Ethical Hacker"]
+  },
+  {
+    "id": "cloud-computing",
+    "domain": "Cloud Computing",
+    "category": "Technology",
+    "jobs": ["Cloud Architect", "Cloud Engineer", "AWS Solutions Architect", "Azure Administrator", "GCP Engineer", "Cloud Security Specialist", "Cloud Consultant"]
+  },
+  {
+    "id": "web-development",
+    "domain": "Web Development",
+    "category": "Technology",
+    "jobs": ["Web Developer", "UI Developer", "WordPress Developer", "Webmaster", "Web Designer", "JavaScript Developer", "PHP Developer"]
+  },
+  {
+    "id": "mobile-development",
+    "domain": "Mobile Development",
+    "category": "Technology",
+    "jobs": ["iOS Developer", "Android Developer", "React Native Developer", "Flutter Developer", "Mobile UI Designer", "Mobile QA Engineer"]
+  },
+  {
+    "id": "game-development",
+    "domain": "Game Development",
+    "category": "Technology",
+    "jobs": ["Game Developer", "Game Designer", "Unity Developer", "Unreal Engine Developer", "Game Artist", "Level Designer", "Game Producer"]
+  },
+  {
+    "id": "blockchain",
+    "domain": "Blockchain & Web3",
+    "category": "Emerging Technology",
+    "jobs": ["Blockchain Developer", "Smart Contract Developer", "Crypto Analyst", "DeFi Developer", "NFT Developer", "Web3 Engineer", "Blockchain Architect"]
+  },
+  {
+    "id": "devops",
+    "domain": "DevOps & Infrastructure",
+    "category": "Technology",
+    "jobs": ["DevOps Engineer", "Platform Engineer", "Infrastructure Engineer", "Release Manager", "Build Engineer", "Automation Engineer"]
+  },
+  {
+    "id": "database-admin",
+    "domain": "Database Administration",
+    "category": "Technology",
+    "jobs": ["Database Administrator", "Database Developer", "Data Architect", "SQL Developer", "NoSQL Specialist", "Database Analyst"]
+  },
+  {
+    "id": "network-engineering",
+    "domain": "Network Engineering",
+    "category": "Technology",
+    "jobs": ["Network Engineer", "Network Administrator", "Network Architect", "Wireless Engineer", "VoIP Engineer", "Network Security Engineer"]
+  },
+  {
+    "id": "it-support",
+    "domain": "IT Support & Services",
+    "category": "Technology",
+    "jobs": ["IT Support Specialist", "Help Desk Technician", "System Administrator", "IT Manager", "Technical Support Engineer", "Desktop Support"]
+  },
+  {
+    "id": "embedded-systems",
+    "domain": "Embedded Systems",
+    "category": "Technology",
+    "jobs": ["Embedded Software Engineer", "Firmware Developer", "IoT Developer", "Hardware Engineer", "FPGA Engineer", "Embedded Systems Architect"]
+  },
+  {
+    "id": "ui-ux-design",
+    "domain": "UI/UX Design",
+    "category": "Design",
+    "jobs": ["UX Designer", "UI Designer", "Product Designer", "Interaction Designer", "UX Researcher", "Visual Designer", "Design Lead"]
+  },
+  {
+    "id": "graphic-design",
+    "domain": "Graphic Design",
+    "category": "Design",
+    "jobs": ["Graphic Designer", "Brand Designer", "Logo Designer", "Print Designer", "Packaging Designer", "Creative Director", "Art Director"]
+  },
+  {
+    "id": "motion-graphics",
+    "domain": "Motion Graphics & Animation",
+    "category": "Design",
+    "jobs": ["Motion Designer", "2D Animator", "3D Animator", "VFX Artist", "Video Editor", "After Effects Artist", "Character Animator"]
+  },
+  {
+    "id": "product-management",
+    "domain": "Product Management",
+    "category": "Business",
+    "jobs": ["Product Manager", "Senior Product Manager", "Director of Product", "VP of Product", "Technical Product Manager", "Growth Product Manager"]
+  },
+  {
+    "id": "project-management",
+    "domain": "Project Management",
+    "category": "Business",
+    "jobs": ["Project Manager", "Scrum Master", "Agile Coach", "Program Manager", "PMO Director", "Project Coordinator", "Delivery Manager"]
+  },
+  {
+    "id": "business-analysis",
+    "domain": "Business Analysis",
+    "category": "Business",
+    "jobs": ["Business Analyst", "Systems Analyst", "Requirements Analyst", "Process Analyst", "IT Business Analyst", "Senior Business Analyst"]
+  },
+  {
+    "id": "digital-marketing",
+    "domain": "Digital Marketing",
+    "category": "Marketing",
+    "jobs": ["Digital Marketing Manager", "SEO Specialist", "SEM Specialist", "Social Media Manager", "Content Marketing Manager", "Growth Hacker", "Performance Marketer"]
+  },
+  {
+    "id": "content-creation",
+    "domain": "Content Creation",
+    "category": "Marketing",
+    "jobs": ["Content Writer", "Copywriter", "Technical Writer", "Content Strategist", "Blog Writer", "UX Writer", "Editor"]
+  },
+  {
+    "id": "social-media",
+    "domain": "Social Media Marketing",
+    "category": "Marketing",
+    "jobs": ["Social Media Manager", "Community Manager", "Influencer Marketing Manager", "Social Media Strategist", "Brand Ambassador Coordinator"]
+  },
+  {
+    "id": "sales",
+    "domain": "Sales",
+    "category": "Business",
+    "jobs": ["Sales Representative", "Account Executive", "Sales Manager", "Business Development Manager", "Sales Director", "VP of Sales", "Inside Sales Rep"]
+  },
+  {
+    "id": "customer-success",
+    "domain": "Customer Success",
+    "category": "Business",
+    "jobs": ["Customer Success Manager", "Account Manager", "Client Relationship Manager", "Customer Success Director", "Onboarding Specialist"]
+  },
+  {
+    "id": "human-resources",
+    "domain": "Human Resources",
+    "category": "Business",
+    "jobs": ["HR Manager", "HR Business Partner", "Recruiter", "Talent Acquisition Specialist", "HR Director", "Compensation Analyst", "CHRO"]
+  },
+  {
+    "id": "finance-accounting",
+    "domain": "Finance & Accounting",
+    "category": "Finance",
+    "jobs": ["Accountant", "Financial Analyst", "CFO", "Controller", "Tax Accountant", "Auditor", "Bookkeeper", "Finance Manager"]
+  },
+  {
+    "id": "investment-banking",
+    "domain": "Investment Banking",
+    "category": "Finance",
+    "jobs": ["Investment Banker", "M&A Analyst", "Equity Research Analyst", "Investment Associate", "Managing Director", "Vice President"]
+  },
+  {
+    "id": "wealth-management",
+    "domain": "Wealth Management",
+    "category": "Finance",
+    "jobs": ["Financial Advisor", "Wealth Manager", "Portfolio Manager", "Private Banker", "Relationship Manager", "Investment Consultant"]
+  },
+  {
+    "id": "insurance",
+    "domain": "Insurance",
+    "category": "Finance",
+    "jobs": ["Insurance Agent", "Underwriter", "Claims Adjuster", "Actuary", "Insurance Broker", "Risk Manager", "Insurance Analyst"]
+  },
+  {
+    "id": "banking",
+    "domain": "Banking",
+    "category": "Finance",
+    "jobs": ["Bank Teller", "Loan Officer", "Branch Manager", "Credit Analyst", "Mortgage Specialist", "Banking Associate", "Relationship Banker"]
+  },
+  {
+    "id": "fintech",
+    "domain": "FinTech",
+    "category": "Finance",
+    "jobs": ["FinTech Product Manager", "Payment Systems Engineer", "RegTech Analyst", "FinTech Developer", "Digital Banking Specialist"]
+  },
+  {
+    "id": "medicine",
+    "domain": "Medicine",
+    "category": "Healthcare",
+    "jobs": ["Doctor", "Physician", "Surgeon", "General Practitioner", "Specialist Doctor", "Medical Consultant", "Resident Doctor"]
+  },
+  {
+    "id": "nursing",
+    "domain": "Nursing",
+    "category": "Healthcare",
+    "jobs": ["Registered Nurse", "Nurse Practitioner", "ICU Nurse", "ER Nurse", "Pediatric Nurse", "Nursing Manager", "Clinical Nurse Specialist"]
+  },
+  {
+    "id": "pharmacy",
+    "domain": "Pharmacy",
+    "category": "Healthcare",
+    "jobs": ["Pharmacist", "Clinical Pharmacist", "Pharmacy Technician", "Pharmaceutical Sales Rep", "Pharmacy Manager", "Research Pharmacist"]
+  },
+  {
+    "id": "dentistry",
+    "domain": "Dentistry",
+    "category": "Healthcare",
+    "jobs": ["Dentist", "Dental Hygienist", "Orthodontist", "Oral Surgeon", "Dental Assistant", "Periodontist", "Endodontist"]
+  },
+  {
+    "id": "mental-health",
+    "domain": "Mental Health",
+    "category": "Healthcare",
+    "jobs": ["Psychologist", "Psychiatrist", "Mental Health Counselor", "Therapist", "Clinical Social Worker", "Marriage Counselor", "Behavioral Therapist"]
+  },
+  {
+    "id": "physical-therapy",
+    "domain": "Physical Therapy",
+    "category": "Healthcare",
+    "jobs": ["Physical Therapist", "Occupational Therapist", "Sports Therapist", "Rehabilitation Specialist", "PT Assistant", "Movement Specialist"]
+  },
+  {
+    "id": "medical-research",
+    "domain": "Medical Research",
+    "category": "Healthcare",
+    "jobs": ["Medical Researcher", "Clinical Research Associate", "Lab Technician", "Research Scientist", "Clinical Trial Manager", "Biomedical Researcher"]
+  },
+  {
+    "id": "healthcare-admin",
+    "domain": "Healthcare Administration",
+    "category": "Healthcare",
+    "jobs": ["Hospital Administrator", "Healthcare Manager", "Medical Director", "Clinical Operations Manager", "Health Information Manager"]
+  },
+  {
+    "id": "public-health",
+    "domain": "Public Health",
+    "category": "Healthcare",
+    "jobs": ["Epidemiologist", "Public Health Officer", "Health Educator", "Community Health Worker", "Public Health Analyst", "Health Policy Advisor"]
+  },
+  {
+    "id": "veterinary",
+    "domain": "Veterinary Medicine",
+    "category": "Healthcare",
+    "jobs": ["Veterinarian", "Vet Technician", "Animal Surgeon", "Zoo Veterinarian", "Veterinary Nurse", "Animal Behaviorist"]
+  },
+  {
+    "id": "biotechnology",
+    "domain": "Biotechnology",
+    "category": "Life Sciences",
+    "jobs": ["Biotechnologist", "Biotech Researcher", "Genetic Engineer", "Bioprocess Engineer", "Bioinformatics Specialist", "Molecular Biologist"]
+  },
+  {
+    "id": "pharmaceutical",
+    "domain": "Pharmaceutical Industry",
+    "category": "Life Sciences",
+    "jobs": ["Pharmaceutical Scientist", "Drug Developer", "Regulatory Affairs Specialist", "QA Specialist", "Clinical Development Manager"]
+  },
+  {
+    "id": "law",
+    "domain": "Law",
+    "category": "Legal",
+    "jobs": ["Lawyer", "Attorney", "Legal Counsel", "Partner", "Associate Attorney", "Solo Practitioner", "Of Counsel"]
+  },
+  {
+    "id": "corporate-law",
+    "domain": "Corporate Law",
+    "category": "Legal",
+    "jobs": ["Corporate Lawyer", "M&A Attorney", "Securities Lawyer", "Contract Attorney", "Corporate Counsel", "General Counsel"]
+  },
+  {
+    "id": "criminal-law",
+    "domain": "Criminal Law",
+    "category": "Legal",
+    "jobs": ["Criminal Defense Attorney", "Prosecutor", "Public Defender", "Criminal Justice Lawyer", "Federal Prosecutor"]
+  },
+  {
+    "id": "intellectual-property",
+    "domain": "Intellectual Property",
+    "category": "Legal",
+    "jobs": ["Patent Attorney", "IP Lawyer", "Trademark Attorney", "Copyright Lawyer", "Patent Agent", "IP Consultant"]
+  },
+  {
+    "id": "paralegal",
+    "domain": "Paralegal Services",
+    "category": "Legal",
+    "jobs": ["Paralegal", "Legal Assistant", "Legal Secretary", "Litigation Support", "Corporate Paralegal", "IP Paralegal"]
+  },
+  {
+    "id": "compliance",
+    "domain": "Compliance & Regulatory",
+    "category": "Legal",
+    "jobs": ["Compliance Officer", "Regulatory Analyst", "Compliance Manager", "Chief Compliance Officer", "AML Analyst", "KYC Analyst"]
+  },
+  {
+    "id": "teaching-k12",
+    "domain": "K-12 Education",
+    "category": "Education",
+    "jobs": ["Teacher", "Elementary Teacher", "High School Teacher", "Special Education Teacher", "School Counselor", "Principal", "Vice Principal"]
+  },
+  {
+    "id": "higher-education",
+    "domain": "Higher Education",
+    "category": "Education",
+    "jobs": ["Professor", "Lecturer", "Teaching Assistant", "Dean", "Department Chair", "Academic Advisor", "Provost"]
+  },
+  {
+    "id": "educational-tech",
+    "domain": "Educational Technology",
+    "category": "Education",
+    "jobs": ["Instructional Designer", "E-Learning Developer", "EdTech Product Manager", "Learning Experience Designer", "Training Developer"]
+  },
+  {
+    "id": "corporate-training",
+    "domain": "Corporate Training",
+    "category": "Education",
+    "jobs": ["Corporate Trainer", "L&D Manager", "Training Coordinator", "Learning Consultant", "Training Director", "Facilitator"]
+  },
+  {
+    "id": "tutoring",
+    "domain": "Tutoring & Coaching",
+    "category": "Education",
+    "jobs": ["Private Tutor", "Online Tutor", "Test Prep Instructor", "Academic Coach", "Subject Matter Expert", "Homework Helper"]
+  },
+  {
+    "id": "mechanical-engineering",
+    "domain": "Mechanical Engineering",
+    "category": "Engineering",
+    "jobs": ["Mechanical Engineer", "Design Engineer", "CAD Engineer", "Manufacturing Engineer", "Thermal Engineer", "Project Engineer"]
+  },
+  {
+    "id": "electrical-engineering",
+    "domain": "Electrical Engineering",
+    "category": "Engineering",
+    "jobs": ["Electrical Engineer", "Electronics Engineer", "Power Systems Engineer", "Control Systems Engineer", "RF Engineer", "PCB Designer"]
+  },
+  {
+    "id": "civil-engineering",
+    "domain": "Civil Engineering",
+    "category": "Engineering",
+    "jobs": ["Civil Engineer", "Structural Engineer", "Construction Engineer", "Transportation Engineer", "Geotechnical Engineer", "Site Engineer"]
+  },
+  {
+    "id": "chemical-engineering",
+    "domain": "Chemical Engineering",
+    "category": "Engineering",
+    "jobs": ["Chemical Engineer", "Process Engineer", "Plant Engineer", "Petrochemical Engineer", "Materials Engineer", "Environmental Engineer"]
+  },
+  {
+    "id": "aerospace-engineering",
+    "domain": "Aerospace Engineering",
+    "category": "Engineering",
+    "jobs": ["Aerospace Engineer", "Aircraft Designer", "Propulsion Engineer", "Avionics Engineer", "Flight Test Engineer", "Space Systems Engineer"]
+  },
+  {
+    "id": "automotive-engineering",
+    "domain": "Automotive Engineering",
+    "category": "Engineering",
+    "jobs": ["Automotive Engineer", "Vehicle Designer", "Powertrain Engineer", "EV Engineer", "Chassis Engineer", "Automotive Test Engineer"]
+  },
+  {
+    "id": "robotics",
+    "domain": "Robotics",
+    "category": "Engineering",
+    "jobs": ["Robotics Engineer", "Automation Engineer", "Controls Engineer", "Robot Programmer", "Mechatronics Engineer", "ROS Developer"]
+  },
+  {
+    "id": "manufacturing",
+    "domain": "Manufacturing",
+    "category": "Engineering",
+    "jobs": ["Manufacturing Engineer", "Production Manager", "Quality Engineer", "Lean Engineer", "Plant Manager", "Operations Manager"]
+  },
+  {
+    "id": "architecture",
+    "domain": "Architecture",
+    "category": "Construction",
+    "jobs": ["Architect", "Architectural Designer", "Interior Architect", "Landscape Architect", "Urban Planner", "BIM Manager", "Principal Architect"]
+  },
+  {
+    "id": "construction-management",
+    "domain": "Construction Management",
+    "category": "Construction",
+    "jobs": ["Construction Manager", "Site Manager", "Project Engineer", "Construction Superintendent", "Estimator", "Quantity Surveyor"]
+  },
+  {
+    "id": "interior-design",
+    "domain": "Interior Design",
+    "category": "Design",
+    "jobs": ["Interior Designer", "Space Planner", "Kitchen Designer", "Commercial Designer", "Residential Designer", "Set Designer"]
+  },
+  {
+    "id": "real-estate",
+    "domain": "Real Estate",
+    "category": "Business",
+    "jobs": ["Real Estate Agent", "Real Estate Broker", "Property Manager", "Real Estate Developer", "Leasing Agent", "Real Estate Analyst"]
+  },
+  {
+    "id": "hospitality-management",
+    "domain": "Hospitality Management",
+    "category": "Hospitality",
+    "jobs": ["Hotel Manager", "Front Desk Manager", "Housekeeping Manager", "Concierge", "Guest Relations Manager", "Resort Manager"]
+  },
+  {
+    "id": "restaurant-management",
+    "domain": "Restaurant Management",
+    "category": "Hospitality",
+    "jobs": ["Restaurant Manager", "General Manager", "Food Service Manager", "Bar Manager", "Catering Manager", "Banquet Manager"]
+  },
+  {
+    "id": "culinary-arts",
+    "domain": "Culinary Arts",
+    "category": "Hospitality",
+    "jobs": ["Chef", "Executive Chef", "Sous Chef", "Pastry Chef", "Line Cook", "Culinary Instructor", "Food Stylist"]
+  },
+  {
+    "id": "event-management",
+    "domain": "Event Management",
+    "category": "Hospitality",
+    "jobs": ["Event Planner", "Event Manager", "Wedding Planner", "Conference Organizer", "Event Coordinator", "Production Manager"]
+  },
+  {
+    "id": "tourism",
+    "domain": "Tourism",
+    "category": "Hospitality",
+    "jobs": ["Tour Guide", "Travel Agent", "Tourism Manager", "Destination Manager", "Travel Consultant", "Adventure Tourism Guide"]
+  },
+  {
+    "id": "retail-management",
+    "domain": "Retail Management",
+    "category": "Retail",
+    "jobs": ["Store Manager", "Retail Manager", "District Manager", "Visual Merchandiser", "Buyer", "Retail Operations Manager"]
+  },
+  {
+    "id": "ecommerce",
+    "domain": "E-Commerce",
+    "category": "Retail",
+    "jobs": ["E-Commerce Manager", "Online Store Manager", "Marketplace Manager", "E-Commerce Analyst", "Dropshipping Expert", "Amazon Seller"]
+  },
+  {
+    "id": "supply-chain",
+    "domain": "Supply Chain Management",
+    "category": "Logistics",
+    "jobs": ["Supply Chain Manager", "Procurement Manager", "Inventory Manager", "Logistics Coordinator", "Demand Planner", "Supply Chain Analyst"]
+  },
+  {
+    "id": "logistics",
+    "domain": "Logistics & Transportation",
+    "category": "Logistics",
+    "jobs": ["Logistics Manager", "Fleet Manager", "Warehouse Manager", "Distribution Manager", "Freight Coordinator", "Transportation Planner"]
+  },
+  {
+    "id": "aviation",
+    "domain": "Aviation",
+    "category": "Transportation",
+    "jobs": ["Pilot", "Commercial Pilot", "Flight Instructor", "Air Traffic Controller", "Aircraft Mechanic", "Flight Attendant", "Aviation Manager"]
+  },
+  {
+    "id": "maritime",
+    "domain": "Maritime Industry",
+    "category": "Transportation",
+    "jobs": ["Ship Captain", "Marine Engineer", "Port Manager", "Shipping Coordinator", "Naval Architect", "Maritime Lawyer"]
+  },
+  {
+    "id": "automotive-industry",
+    "domain": "Automotive Industry",
+    "category": "Transportation",
+    "jobs": ["Auto Technician", "Service Advisor", "Parts Manager", "Auto Body Technician", "Dealership Manager", "Automotive Sales"]
+  },
+  {
+    "id": "journalism",
+    "domain": "Journalism",
+    "category": "Media",
+    "jobs": ["Journalist", "Reporter", "News Anchor", "Investigative Journalist", "Editor", "Correspondent", "News Producer"]
+  },
+  {
+    "id": "broadcasting",
+    "domain": "Broadcasting",
+    "category": "Media",
+    "jobs": ["TV Producer", "Radio Host", "Podcast Host", "Broadcast Engineer", "Program Director", "Media Planner"]
+  },
+  {
+    "id": "film-production",
+    "domain": "Film Production",
+    "category": "Media",
+    "jobs": ["Film Director", "Film Producer", "Cinematographer", "Screenwriter", "Film Editor", "Production Designer", "Sound Designer"]
+  },
+  {
+    "id": "photography",
+    "domain": "Photography",
+    "category": "Creative",
+    "jobs": ["Photographer", "Portrait Photographer", "Commercial Photographer", "Wedding Photographer", "Photo Editor", "Photojournalist"]
+  },
+  {
+    "id": "music-production",
+    "domain": "Music Production",
+    "category": "Creative",
+    "jobs": ["Music Producer", "Sound Engineer", "Audio Engineer", "Mixing Engineer", "Mastering Engineer", "Recording Artist", "DJ"]
+  },
+  {
+    "id": "performing-arts",
+    "domain": "Performing Arts",
+    "category": "Creative",
+    "jobs": ["Actor", "Singer", "Dancer", "Theater Director", "Choreographer", "Voice Actor", "Musician"]
+  },
+  {
+    "id": "writing-publishing",
+    "domain": "Writing & Publishing",
+    "category": "Creative",
+    "jobs": ["Author", "Novelist", "Publisher", "Literary Agent", "Book Editor", "Ghostwriter", "Screenwriter"]
+  },
+  {
+    "id": "fashion-design",
+    "domain": "Fashion Design",
+    "category": "Creative",
+    "jobs": ["Fashion Designer", "Textile Designer", "Pattern Maker", "Fashion Stylist", "Costume Designer", "Fashion Buyer"]
+  },
+  {
+    "id": "sports-management",
+    "domain": "Sports Management",
+    "category": "Sports",
+    "jobs": ["Sports Manager", "Athletic Director", "Sports Agent", "Team Manager", "Sports Marketing Manager", "Facility Manager"]
+  },
+  {
+    "id": "fitness",
+    "domain": "Fitness & Wellness",
+    "category": "Sports",
+    "jobs": ["Personal Trainer", "Fitness Coach", "Gym Manager", "Yoga Instructor", "Nutritionist", "Wellness Coach", "Pilates Instructor"]
+  },
+  {
+    "id": "professional-sports",
+    "domain": "Professional Sports",
+    "category": "Sports",
+    "jobs": ["Professional Athlete", "Sports Coach", "Scout", "Sports Analyst", "Referee", "Sports Commentator"]
+  },
+  {
+    "id": "agriculture",
+    "domain": "Agriculture",
+    "category": "Agriculture",
+    "jobs": ["Farmer", "Agronomist", "Agricultural Engineer", "Farm Manager", "Crop Scientist", "Horticulturist", "Agricultural Consultant"]
+  },
+  {
+    "id": "food-science",
+    "domain": "Food Science",
+    "category": "Agriculture",
+    "jobs": ["Food Scientist", "Food Technologist", "Quality Control Manager", "R&D Scientist", "Flavor Chemist", "Food Safety Manager"]
+  },
+  {
+    "id": "environmental-science",
+    "domain": "Environmental Science",
+    "category": "Environment",
+    "jobs": ["Environmental Scientist", "Ecologist", "Conservation Scientist", "Wildlife Biologist", "Environmental Consultant", "Sustainability Manager"]
+  },
+  {
+    "id": "renewable-energy",
+    "domain": "Renewable Energy",
+    "category": "Energy",
+    "jobs": ["Solar Engineer", "Wind Energy Engineer", "Energy Analyst", "Sustainability Specialist", "Green Building Consultant", "Energy Auditor"]
+  },
+  {
+    "id": "oil-gas",
+    "domain": "Oil & Gas",
+    "category": "Energy",
+    "jobs": ["Petroleum Engineer", "Drilling Engineer", "Reservoir Engineer", "Geologist", "Pipeline Engineer", "HSE Manager"]
+  },
+  {
+    "id": "nuclear-energy",
+    "domain": "Nuclear Energy",
+    "category": "Energy",
+    "jobs": ["Nuclear Engineer", "Reactor Operator", "Radiation Safety Officer", "Nuclear Physicist", "Health Physicist"]
+  },
+  {
+    "id": "government-admin",
+    "domain": "Government Administration",
+    "category": "Government",
+    "jobs": ["Civil Servant", "Government Officer", "Policy Analyst", "Public Administrator", "City Manager", "Government Affairs Director"]
+  },
+  {
+    "id": "public-policy",
+    "domain": "Public Policy",
+    "category": "Government",
+    "jobs": ["Policy Advisor", "Policy Researcher", "Legislative Analyst", "Think Tank Researcher", "Government Relations Manager"]
+  },
+  {
+    "id": "military",
+    "domain": "Military & Defense",
+    "category": "Government",
+    "jobs": ["Military Officer", "Intelligence Analyst", "Defense Contractor", "Military Engineer", "Cybersecurity Specialist", "Logistics Officer"]
+  },
+  {
+    "id": "law-enforcement",
+    "domain": "Law Enforcement",
+    "category": "Government",
+    "jobs": ["Police Officer", "Detective", "FBI Agent", "Border Patrol Agent", "Crime Analyst", "Forensic Investigator"]
+  },
+  {
+    "id": "nonprofit",
+    "domain": "Non-Profit Management",
+    "category": "Non-Profit",
+    "jobs": ["Executive Director", "Program Manager", "Fundraiser", "Grant Writer", "Development Director", "Volunteer Coordinator"]
+  },
+  {
+    "id": "social-work",
+    "domain": "Social Work",
+    "category": "Non-Profit",
+    "jobs": ["Social Worker", "Case Manager", "Child Welfare Specialist", "Family Therapist", "Community Organizer", "Youth Counselor"]
+  },
+  {
+    "id": "international-development",
+    "domain": "International Development",
+    "category": "Non-Profit",
+    "jobs": ["Development Officer", "Humanitarian Worker", "NGO Manager", "Field Coordinator", "M&E Specialist", "Aid Worker"]
+  },
+  {
+    "id": "consulting",
+    "domain": "Management Consulting",
+    "category": "Business",
+    "jobs": ["Management Consultant", "Strategy Consultant", "Operations Consultant", "Partner", "Associate Consultant", "Senior Consultant"]
+  },
+  {
+    "id": "entrepreneurship",
+    "domain": "Entrepreneurship",
+    "category": "Business",
+    "jobs": ["Entrepreneur", "Startup Founder", "CEO", "Co-Founder", "Solopreneur", "Serial Entrepreneur"]
+  },
+  {
+    "id": "venture-capital",
+    "domain": "Venture Capital",
+    "category": "Finance",
+    "jobs": ["VC Analyst", "Investment Associate", "Partner", "Venture Partner", "Principal", "Portfolio Manager"]
+  },
+  {
+    "id": "private-equity",
+    "domain": "Private Equity",
+    "category": "Finance",
+    "jobs": ["PE Analyst", "PE Associate", "Managing Director", "Operating Partner", "Investment Director"]
+  },
+  {
+    "id": "trading",
+    "domain": "Trading & Markets",
+    "category": "Finance",
+    "jobs": ["Trader", "Quantitative Trader", "Options Trader", "Forex Trader", "Proprietary Trader", "Trading Analyst"]
+  },
+  {
+    "id": "quantum-computing",
+    "domain": "Quantum Computing",
+    "category": "Emerging Technology",
+    "jobs": ["Quantum Computing Researcher", "Quantum Software Developer", "Quantum Algorithm Developer", "Quantum Hardware Engineer"]
+  },
+  {
+    "id": "augmented-reality",
+    "domain": "AR/VR Development",
+    "category": "Emerging Technology",
+    "jobs": ["AR Developer", "VR Developer", "XR Designer", "Metaverse Developer", "3D Artist", "Spatial Computing Engineer"]
+  },
+  {
+    "id": "space-industry",
+    "domain": "Space Industry",
+    "category": "Emerging Technology",
+    "jobs": ["Space Engineer", "Satellite Engineer", "Mission Specialist", "Astrodynamics Engineer", "Space Systems Analyst", "Astronaut"]
+  },
+  {
+    "id": "autonomous-vehicles",
+    "domain": "Autonomous Vehicles",
+    "category": "Emerging Technology",
+    "jobs": ["AV Engineer", "Perception Engineer", "Planning Engineer", "Simulation Engineer", "ADAS Developer", "Sensor Fusion Engineer"]
+  },
+  {
+    "id": "3d-printing",
+    "domain": "3D Printing & Additive Manufacturing",
+    "category": "Emerging Technology",
+    "jobs": ["3D Printing Specialist", "Additive Manufacturing Engineer", "CAD Designer", "Rapid Prototyping Expert", "Materials Specialist"]
+  },
+  {
+    "id": "nanotechnology",
+    "domain": "Nanotechnology",
+    "category": "Emerging Technology",
+    "jobs": ["Nanotechnology Researcher", "Nanomaterials Scientist", "Nanoelectronics Engineer", "Nanomedicine Specialist"]
+  },
+  {
+    "id": "climate-tech",
+    "domain": "Climate Technology",
+    "category": "Emerging Technology",
+    "jobs": ["Climate Scientist", "Carbon Capture Engineer", "Clean Tech Developer", "ESG Analyst", "Climate Policy Advisor"]
+  },
+  {
+    "id": "synthetic-biology",
+    "domain": "Synthetic Biology",
+    "category": "Emerging Technology",
+    "jobs": ["Synthetic Biologist", "Genetic Engineer", "Biodesigner", "BioPharma Scientist", "CRISPR Specialist"]
+  },
+  {
+    "id": "telecommunications",
+    "domain": "Telecommunications",
+    "category": "Technology",
+    "jobs": ["Telecom Engineer", "Network Planner", "RF Engineer", "5G Specialist", "Telecom Project Manager", "OSS/BSS Developer"]
+  },
+  {
+    "id": "data-privacy",
+    "domain": "Data Privacy & Protection",
+    "category": "Legal",
+    "jobs": ["Data Privacy Officer", "DPO", "Privacy Counsel", "GDPR Consultant", "Privacy Engineer", "Compliance Analyst"]
+  },
+  {
+    "id": "technical-writing",
+    "domain": "Technical Writing",
+    "category": "Technology",
+    "jobs": ["Technical Writer", "Documentation Specialist", "API Writer", "Knowledge Base Manager", "Technical Editor"]
+  },
+  {
+    "id": "customer-service",
+    "domain": "Customer Service",
+    "category": "Business",
+    "jobs": ["Customer Service Representative", "Call Center Agent", "Customer Support Manager", "Customer Experience Manager"]
+  },
+  {
+    "id": "operations",
+    "domain": "Operations Management",
+    "category": "Business",
+    "jobs": ["Operations Manager", "COO", "Operations Director", "Process Improvement Manager", "Operations Analyst"]
+  },
+  {
+    "id": "quality-assurance",
+    "domain": "Quality Assurance",
+    "category": "Business",
+    "jobs": ["QA Manager", "Quality Control Specialist", "Quality Engineer", "ISO Auditor", "Six Sigma Black Belt"]
+  },
+  {
+    "id": "public-relations",
+    "domain": "Public Relations",
+    "category": "Marketing",
+    "jobs": ["PR Manager", "Communications Manager", "Media Relations Specialist", "Corporate Communications Director", "Press Secretary"]
+  },
+  {
+    "id": "brand-management",
+    "domain": "Brand Management",
+    "category": "Marketing",
+    "jobs": ["Brand Manager", "Brand Strategist", "Brand Director", "Chief Brand Officer", "Brand Ambassador"]
+  },
+  {
+    "id": "market-research",
+    "domain": "Market Research",
+    "category": "Marketing",
+    "jobs": ["Market Research Analyst", "Consumer Insights Manager", "Research Director", "Survey Analyst", "Competitive Intelligence Analyst"]
+  },
+  {
+    "id": "advertising",
+    "domain": "Advertising",
+    "category": "Marketing",
+    "jobs": ["Advertising Manager", "Creative Director", "Media Buyer", "Account Executive", "Copywriter", "Art Director"]
+  },
+  {
+    "id": "affiliate-marketing",
+    "domain": "Affiliate Marketing",
+    "category": "Marketing",
+    "jobs": ["Affiliate Manager", "Affiliate Marketer", "Partnership Manager", "Publisher Manager", "Performance Manager"]
+  },
+  {
+    "id": "influencer-marketing",
+    "domain": "Influencer Marketing",
+    "category": "Marketing",
+    "jobs": ["Influencer", "Content Creator", "Brand Influencer", "Influencer Manager", "Creator Economy Specialist"]
+  },
+  {
+    "id": "tax-advisory",
+    "domain": "Tax Advisory",
+    "category": "Finance",
+    "jobs": ["Tax Advisor", "Tax Consultant", "Tax Manager", "Tax Director", "International Tax Specialist", "Transfer Pricing Specialist"]
+  },
+  {
+    "id": "forensic-accounting",
+    "domain": "Forensic Accounting",
+    "category": "Finance",
+    "jobs": ["Forensic Accountant", "Fraud Examiner", "Litigation Support Specialist", "Financial Investigator"]
+  },
+  {
+    "id": "treasury",
+    "domain": "Treasury Management",
+    "category": "Finance",
+    "jobs": ["Treasurer", "Treasury Analyst", "Cash Manager", "Treasury Manager", "Corporate Treasury Specialist"]
+  },
+  {
+    "id": "radiology",
+    "domain": "Radiology",
+    "category": "Healthcare",
+    "jobs": ["Radiologist", "Radiology Technician", "MRI Technologist", "CT Technologist", "Interventional Radiologist"]
+  },
+  {
+    "id": "pathology",
+    "domain": "Pathology",
+    "category": "Healthcare",
+    "jobs": ["Pathologist", "Medical Lab Technician", "Histotechnologist", "Cytotechnologist", "Clinical Pathologist"]
+  },
+  {
+    "id": "cardiology",
+    "domain": "Cardiology",
+    "category": "Healthcare",
+    "jobs": ["Cardiologist", "Cardiac Surgeon", "Cardiac Nurse", "Cardiovascular Technologist", "Electrophysiologist"]
+  },
+  {
+    "id": "oncology",
+    "domain": "Oncology",
+    "category": "Healthcare",
+    "jobs": ["Oncologist", "Oncology Nurse", "Radiation Oncologist", "Surgical Oncologist", "Cancer Researcher"]
+  },
+  {
+    "id": "pediatrics",
+    "domain": "Pediatrics",
+    "category": "Healthcare",
+    "jobs": ["Pediatrician", "Pediatric Nurse", "Neonatologist", "Pediatric Surgeon", "Child Life Specialist"]
+  },
+  {
+    "id": "neurology",
+    "domain": "Neurology",
+    "category": "Healthcare",
+    "jobs": ["Neurologist", "Neurosurgeon", "Neuroradiologist", "EEG Technologist", "Neuropsychologist"]
+  },
+  {
+    "id": "dermatology",
+    "domain": "Dermatology",
+    "category": "Healthcare",
+    "jobs": ["Dermatologist", "Cosmetic Dermatologist", "Dermatology Nurse", "Aesthetician", "Skin Care Specialist"]
+  },
+  {
+    "id": "optometry",
+    "domain": "Optometry",
+    "category": "Healthcare",
+    "jobs": ["Optometrist", "Ophthalmologist", "Optician", "Vision Therapist", "Optical Manager"]
+  },
+  {
+    "id": "sports-medicine",
+    "domain": "Sports Medicine",
+    "category": "Healthcare",
+    "jobs": ["Sports Medicine Physician", "Athletic Trainer", "Sports Physiotherapist", "Team Doctor", "Exercise Physiologist"]
+  },
+  {
+    "id": "emergency-medicine",
+    "domain": "Emergency Medicine",
+    "category": "Healthcare",
+    "jobs": ["ER Doctor", "Emergency Medicine Physician", "Paramedic", "EMT", "Trauma Surgeon", "Flight Nurse"]
+  },
+  {
+    "id": "anesthesiology",
+    "domain": "Anesthesiology",
+    "category": "Healthcare",
+    "jobs": ["Anesthesiologist", "Nurse Anesthetist", "Pain Management Specialist", "Critical Care Anesthesiologist"]
+  },
+  {
+    "id": "alternative-medicine",
+    "domain": "Alternative Medicine",
+    "category": "Healthcare",
+    "jobs": ["Chiropractor", "Acupuncturist", "Naturopath", "Homeopath", "Ayurvedic Practitioner", "Herbalist"]
+  },
+  {
+    "id": "medical-devices",
+    "domain": "Medical Devices",
+    "category": "Healthcare",
+    "jobs": ["Medical Device Engineer", "Biomedical Engineer", "Clinical Engineer", "Regulatory Affairs", "Quality Manager"]
+  },
+  {
+    "id": "health-informatics",
+    "domain": "Health Informatics",
+    "category": "Healthcare",
+    "jobs": ["Health Informaticist", "Clinical Informatics Specialist", "Health IT Manager", "EHR Specialist", "Healthcare Data Analyst"]
+  },
+  {
+    "id": "geology",
+    "domain": "Geology",
+    "category": "Science",
+    "jobs": ["Geologist", "Petroleum Geologist", "Environmental Geologist", "Mining Geologist", "Hydrogeologist"]
+  },
+  {
+    "id": "oceanography",
+    "domain": "Oceanography",
+    "category": "Science",
+    "jobs": ["Oceanographer", "Marine Biologist", "Ocean Engineer", "Marine Geologist", "Fisheries Scientist"]
+  },
+  {
+    "id": "astronomy",
+    "domain": "Astronomy",
+    "category": "Science",
+    "jobs": ["Astronomer", "Astrophysicist", "Cosmologist", "Planetary Scientist", "Observatory Director"]
+  },
+  {
+    "id": "physics",
+    "domain": "Physics",
+    "category": "Science",
+    "jobs": ["Physicist", "Research Physicist", "Applied Physicist", "Particle Physicist", "Optical Physicist"]
+  },
+  {
+    "id": "chemistry",
+    "domain": "Chemistry",
+    "category": "Science",
+    "jobs": ["Chemist", "Analytical Chemist", "Organic Chemist", "Materials Scientist", "Formulation Chemist"]
+  },
+  {
+    "id": "mathematics",
+    "domain": "Mathematics",
+    "category": "Science",
+    "jobs": ["Mathematician", "Statistician", "Actuary", "Operations Research Analyst", "Cryptographer"]
+  },
+  {
+    "id": "linguistics",
+    "domain": "Linguistics",
+    "category": "Education",
+    "jobs": ["Linguist", "Translator", "Interpreter", "Speech Pathologist", "Computational Linguist", "Lexicographer"]
+  },
+  {
+    "id": "archaeology",
+    "domain": "Archaeology",
+    "category": "Science",
+    "jobs": ["Archaeologist", "Museum Curator", "Cultural Resource Manager", "Preservation Specialist", "Anthropologist"]
+  },
+  {
+    "id": "library-science",
+    "domain": "Library Science",
+    "category": "Education",
+    "jobs": ["Librarian", "Archivist", "Information Specialist", "Digital Librarian", "Library Director"]
+  },
+  {
+    "id": "urban-planning",
+    "domain": "Urban Planning",
+    "category": "Construction",
+    "jobs": ["Urban Planner", "City Planner", "Regional Planner", "Transportation Planner", "GIS Specialist"]
+  },
+  {
+    "id": "surveying",
+    "domain": "Surveying",
+    "category": "Construction",
+    "jobs": ["Surveyor", "Land Surveyor", "Geodetic Surveyor", "Mapping Technician", "GIS Analyst"]
+  },
+  {
+    "id": "funeral-services",
+    "domain": "Funeral Services",
+    "category": "Services",
+    "jobs": ["Funeral Director", "Mortician", "Embalmer", "Cemetery Manager", "Grief Counselor"]
+  },
+  {
+    "id": "beauty-cosmetics",
+    "domain": "Beauty & Cosmetics",
+    "category": "Services",
+    "jobs": ["Beautician", "Makeup Artist", "Hair Stylist", "Nail Technician", "Esthetician", "Cosmetologist"]
+  },
+  {
+    "id": "security-services",
+    "domain": "Security Services",
+    "category": "Services",
+    "jobs": ["Security Guard", "Security Manager", "Bodyguard", "Security Consultant", "Loss Prevention Specialist"]
+  },
+  {
+    "id": "cleaning-services",
+    "domain": "Cleaning Services",
+    "category": "Services",
+    "jobs": ["Cleaning Supervisor", "Janitor", "Housekeeper", "Commercial Cleaner", "Cleaning Business Owner"]
+  },
+  {
+    "id": "pet-services",
+    "domain": "Pet Services",
+    "category": "Services",
+    "jobs": ["Pet Groomer", "Dog Trainer", "Pet Sitter", "Veterinary Assistant", "Animal Shelter Manager"]
+  },
+  {
+    "id": "childcare",
+    "domain": "Childcare",
+    "category": "Services",
+    "jobs": ["Nanny", "Childcare Worker", "Daycare Teacher", "Au Pair", "Childcare Center Director"]
+  },
+  {
+    "id": "elder-care",
+    "domain": "Elder Care",
+    "category": "Healthcare",
+    "jobs": ["Caregiver", "Home Health Aide", "Geriatric Care Manager", "Senior Care Coordinator", "Assisted Living Manager"]
+  },
+  {
+    "id": "insurance-tech",
+    "domain": "InsurTech",
+    "category": "Finance",
+    "jobs": ["InsurTech Product Manager", "Claims Automation Specialist", "Digital Insurance Analyst", "Telematics Engineer"]
+  },
+  {
+    "id": "proptech",
+    "domain": "PropTech",
+    "category": "Technology",
+    "jobs": ["PropTech Developer", "Real Estate Tech Analyst", "Smart Building Engineer", "Property Tech Product Manager"]
+  },
+  {
+    "id": "agtech",
+    "domain": "AgTech",
+    "category": "Agriculture",
+    "jobs": ["AgTech Developer", "Precision Agriculture Specialist", "Farm Tech Consultant", "Agricultural Data Analyst"]
+  },
+  {
+    "id": "legaltech",
+    "domain": "LegalTech",
+    "category": "Legal",
+    "jobs": ["LegalTech Developer", "Legal Operations Manager", "Contract Automation Specialist", "E-Discovery Analyst"]
+  },
+  {
+    "id": "hrtech",
+    "domain": "HRTech",
+    "category": "Business",
+    "jobs": ["HRTech Product Manager", "People Analytics Specialist", "HR Systems Administrator", "Talent Tech Consultant"]
+  },
+  {
+    "id": "martech",
+    "domain": "MarTech",
+    "category": "Marketing",
+    "jobs": ["MarTech Specialist", "Marketing Automation Manager", "CDP Specialist", "Marketing Technologist"]
+  },
+  {
+    "id": "regtech",
+    "domain": "RegTech",
+    "category": "Finance",
+    "jobs": ["RegTech Analyst", "Compliance Tech Specialist", "Regulatory Technology Manager", "AML Tech Developer"]
+  },
+  {
+    "id": "govtech",
+    "domain": "GovTech",
+    "category": "Government",
+    "jobs": ["GovTech Developer", "Digital Government Specialist", "Civic Tech Developer", "Government IT Consultant"]
+  },
+  {
+    "id": "cleantech",
+    "domain": "CleanTech",
+    "category": "Energy",
+    "jobs": ["CleanTech Developer", "Sustainability Tech Lead", "Green Technology Consultant", "Circular Economy Specialist"]
+  },
+  {
+    "id": "spacetech",
+    "domain": "SpaceTech",
+    "category": "Emerging Technology",
+    "jobs": ["SpaceTech Engineer", "Satellite Developer", "Space Systems Analyst", "Orbital Mechanics Engineer"]
+  },
+  {
+    "id": "foodtech",
+    "domain": "FoodTech",
+    "category": "Agriculture",
+    "jobs": ["FoodTech Developer", "Alternative Protein Scientist", "Food Delivery Tech Manager", "Smart Kitchen Engineer"]
+  },
+  {
+    "id": "sporttech",
+    "domain": "SportsTech",
+    "category": "Sports",
+    "jobs": ["SportsTech Developer", "Sports Analytics Engineer", "Wearable Tech Specialist", "eSports Tech Manager"]
+  },
+  {
+    "id": "audiotech",
+    "domain": "AudioTech",
+    "category": "Technology",
+    "jobs": ["Audio Engineer", "Podcast Producer", "Audio Software Developer", "Voice Technology Specialist"]
+  },
+  {
+    "id": "wearables",
+    "domain": "Wearable Technology",
+    "category": "Technology",
+    "jobs": ["Wearable Device Engineer", "IoT Wearables Developer", "Health Wearables Specialist", "Smart Textile Engineer"]
+  },
+  {
+    "id": "smart-cities",
+    "domain": "Smart Cities",
+    "category": "Emerging Technology",
+    "jobs": ["Smart City Planner", "Urban IoT Developer", "City Data Analyst", "Smart Infrastructure Engineer"]
+  },
+  {
+    "id": "digital-twins",
+    "domain": "Digital Twins",
+    "category": "Emerging Technology",
+    "jobs": ["Digital Twin Engineer", "Simulation Specialist", "Virtual Model Developer", "Industrial IoT Developer"]
+  },
+  {
+    "id": "edge-computing",
+    "domain": "Edge Computing",
+    "category": "Technology",
+    "jobs": ["Edge Computing Engineer", "Edge Infrastructure Architect", "Fog Computing Developer", "Edge AI Specialist"]
+  },
+  {
+    "id": "5g-technology",
+    "domain": "5G Technology",
+    "category": "Technology",
+    "jobs": ["5G Network Engineer", "5G Solutions Architect", "Mobile Network Specialist", "5G Product Manager"]
+  },
+  {
+    "id": "drone-technology",
+    "domain": "Drone Technology",
+    "category": "Emerging Technology",
+    "jobs": ["Drone Pilot", "Drone Engineer", "UAV Operator", "Drone Software Developer", "Aerial Surveyor"]
+  },
+  {
+    "id": "battery-technology",
+    "domain": "Battery Technology",
+    "category": "Energy",
+    "jobs": ["Battery Engineer", "Energy Storage Specialist", "EV Battery Developer", "Battery Systems Analyst"]
+  },
+  {
+    "id": "hydrogen-energy",
+    "domain": "Hydrogen Energy",
+    "category": "Energy",
+    "jobs": ["Hydrogen Engineer", "Fuel Cell Developer", "Green Hydrogen Specialist", "Hydrogen Infrastructure Planner"]
+  },
+  {
+    "id": "circular-economy",
+    "domain": "Circular Economy",
+    "category": "Environment",
+    "jobs": ["Circular Economy Consultant", "Waste Management Specialist", "Recycling Engineer", "Sustainability Analyst"]
+  },
+  {
+    "id": "carbon-markets",
+    "domain": "Carbon Markets",
+    "category": "Finance",
+    "jobs": ["Carbon Trader", "Carbon Credit Analyst", "Climate Finance Specialist", "Emissions Consultant"]
+  },
+  {
+    "id": "personal-branding",
+    "domain": "Personal Branding",
+    "category": "Marketing",
+    "jobs": ["Personal Brand Consultant", "Career Coach", "LinkedIn Strategist", "Reputation Manager"]
+  },
+  {
+    "id": "creator-economy",
+    "domain": "Creator Economy",
+    "category": "Media",
+    "jobs": ["Content Creator", "YouTuber", "Twitch Streamer", "TikTok Creator", "Newsletter Writer", "Podcast Host"]
+  },
+  {
+    "id": "remote-work",
+    "domain": "Remote Work Solutions",
+    "category": "Business",
+    "jobs": ["Remote Work Consultant", "Virtual Team Manager", "Distributed Systems Lead", "Remote Operations Specialist"]
+  },
+  {
+    "id": "mental-wellness",
+    "domain": "Mental Wellness Tech",
+    "category": "Healthcare",
+    "jobs": ["Mental Health App Developer", "Digital Therapist", "Wellness Tech Product Manager", "Mindfulness Coach"]
+  },
+  {
+    "id": "telemedicine",
+    "domain": "Telemedicine",
+    "category": "Healthcare",
+    "jobs": ["Telemedicine Physician", "Virtual Care Coordinator", "Telehealth Nurse", "Remote Patient Monitor"]
+  },
+  {
+    "id": "personalized-medicine",
+    "domain": "Personalized Medicine",
+    "category": "Healthcare",
+    "jobs": ["Genomics Specialist", "Pharmacogenomics Researcher", "Precision Medicine Analyst", "Genetic Counselor"]
+  },
+  {
+    "id": "neurotechnology",
+    "domain": "Neurotechnology",
+    "category": "Emerging Technology",
+    "jobs": ["Neurotech Engineer", "Brain-Computer Interface Developer", "Neurostimulation Specialist", "Cognitive Enhancement Researcher"]
+  },
+  {
+    "id": "longevity",
+    "domain": "Longevity Science",
+    "category": "Healthcare",
+    "jobs": ["Longevity Researcher", "Anti-Aging Specialist", "Regenerative Medicine Scientist", "Biohacker"]
+  },
+  {
+    "id": "ocean-tech",
+    "domain": "Ocean Technology",
+    "category": "Environment",
+    "jobs": ["Marine Technologist", "Ocean Data Analyst", "Underwater Robotics Engineer", "Blue Economy Specialist"]
+  },
+  {
+    "id": "vertical-farming",
+    "domain": "Vertical Farming",
+    "category": "Agriculture",
+    "jobs": ["Vertical Farm Manager", "Indoor Agriculture Specialist", "Hydroponics Expert", "Urban Farmer"]
+  },
+  {
+    "id": "lab-grown-food",
+    "domain": "Lab-Grown Food",
+    "category": "Agriculture",
+    "jobs": ["Cellular Agriculture Scientist", "Cultured Meat Developer", "Food Biotech Researcher", "Lab Food Technician"]
+  },
+  {
+    "id": "impact-investing",
+    "domain": "Impact Investing",
+    "category": "Finance",
+    "jobs": ["Impact Investor", "ESG Fund Manager", "Social Impact Analyst", "Sustainable Finance Advisor"]
+  },
+  {
+    "id": "decentralized-finance",
+    "domain": "Decentralized Finance (DeFi)",
+    "category": "Finance",
+    "jobs": ["DeFi Developer", "DeFi Analyst", "Liquidity Manager", "Tokenomics Designer", "DAO Coordinator"]
+  },
+  {
+    "id": "nft-digital-assets",
+    "domain": "NFT & Digital Assets",
+    "category": "Emerging Technology",
+    "jobs": ["NFT Artist", "Digital Asset Manager", "NFT Marketplace Developer", "Crypto Curator"]
+  },
+  {
+    "id": "metaverse",
+    "domain": "Metaverse",
+    "category": "Emerging Technology",
+    "jobs": ["Metaverse Architect", "Virtual World Designer", "Avatar Developer", "Metaverse Experience Manager"]
+  },
+  {
+    "id": "prompt-engineering",
+    "domain": "Prompt Engineering",
+    "category": "Emerging Technology",
+    "jobs": ["Prompt Engineer", "AI Trainer", "LLM Specialist", "Conversational AI Designer"]
+  },
+  {
+    "id": "ai-ethics",
+    "domain": "AI Ethics & Safety",
+    "category": "Emerging Technology",
+    "jobs": ["AI Ethics Officer", "AI Safety Researcher", "Responsible AI Lead", "Algorithm Auditor"]
+  },
+  {
+    "id": "no-code-development",
+    "domain": "No-Code Development",
+    "category": "Technology",
+    "jobs": ["No-Code Developer", "Citizen Developer", "Automation Specialist", "No-Code Consultant"]
+  }
+]

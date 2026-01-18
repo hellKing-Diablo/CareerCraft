@@ -1,0 +1,392 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Nunito', system-ui, -apple-system, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Light mode (default) */
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #FFFDF7 0%, #FFF9E8 100%);
+  color: #3D3D3D;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+/* Dark mode */
+.dark body {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  color: #F5F5F5;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* Custom scrollbar - Light mode */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FFF9E8;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #F9C093 0%, #F5A167 100%);
+  border-radius: 5px;
+  border: 2px solid #FFF9E8;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #F5A167 0%, #F07D3B 100%);
+}
+
+/* Dark mode scrollbar */
+.dark ::-webkit-scrollbar-track {
+  background: #1a1a2e;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #3D3D6B 0%, #4A4A7A 100%);
+  border-color: #1a1a2e;
+}
+
+/* ========================================
+   PIXEL ART UTILITIES
+   ======================================== */
+
+/* Pixel-perfect rendering */
+.pixel-art {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+/* Pixel font styling */
+.pixel-text {
+  font-family: 'Press Start 2P', cursive;
+  letter-spacing: 1px;
+}
+
+/* Pixel border effect */
+.pixel-border {
+  border: 4px solid;
+  border-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Crect width='8' height='8' fill='%238B7355'/%3E%3C/svg%3E") 4 stretch;
+}
+
+/* ========================================
+   GAME WORLD ELEMENTS
+   ======================================== */
+
+/* Ground tile pattern */
+.ground-tile {
+  background:
+    repeating-linear-gradient(
+      90deg,
+      #8B7355 0px,
+      #8B7355 32px,
+      #7A6548 32px,
+      #7A6548 64px
+    );
+  background-size: 64px 32px;
+}
+
+/* Grass tile pattern */
+.grass-tile {
+  background:
+    linear-gradient(180deg, #7CB342 0%, #558B2F 100%);
+  position: relative;
+}
+
+.grass-tile::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 8px;
+  background:
+    repeating-linear-gradient(
+      90deg,
+      transparent 0px,
+      transparent 4px,
+      #8BC34A 4px,
+      #8BC34A 8px,
+      transparent 8px,
+      transparent 16px
+    );
+}
+
+/* Sky gradient for game area */
+.game-sky {
+  background: linear-gradient(
+    180deg,
+    #87CEEB 0%,
+    #B0E0E6 40%,
+    #E0F7FA 70%,
+    #FFF9E8 100%
+  );
+}
+
+.dark .game-sky {
+  background: linear-gradient(
+    180deg,
+    #1E3A5F 0%,
+    #2D4A6F 40%,
+    #3D5A7F 70%,
+    #1a1a2e 100%
+  );
+}
+
+/* Cloud styling */
+.cloud {
+  background: white;
+  border-radius: 50px;
+  box-shadow:
+    30px -10px 0 10px white,
+    60px 0 0 20px white,
+    90px -10px 0 10px white;
+}
+
+.dark .cloud {
+  background: #3D5A7F;
+  box-shadow:
+    30px -10px 0 10px #3D5A7F,
+    60px 0 0 20px #3D5A7F,
+    90px -10px 0 10px #3D5A7F;
+}
+
+/* ========================================
+   PLATFORMER PATH ELEMENTS
+   ======================================== */
+
+/* Path connector line */
+.path-line {
+  background: repeating-linear-gradient(
+    90deg,
+    #A0522D 0px,
+    #A0522D 8px,
+    transparent 8px,
+    transparent 16px
+  );
+  height: 4px;
+}
+
+/* Platform base */
+.platform {
+  background: linear-gradient(180deg, #8BC34A 0%, #689F38 50%, #8B7355 50%, #7A6548 100%);
+  border-radius: 8px 8px 0 0;
+  box-shadow: 0 4px 0 0 #5D4E37;
+}
+
+/* Flag pole */
+.flag-pole {
+  width: 4px;
+  background: linear-gradient(180deg, #8B7355 0%, #6D5A45 100%);
+}
+
+/* Flag */
+.flag {
+  width: 0;
+  height: 0;
+  border-left: 20px solid #E53935;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  transform-origin: left center;
+}
+
+/* Castle/Building for milestone */
+.castle {
+  background: linear-gradient(180deg, #9E9E9E 0%, #757575 100%);
+  border-radius: 4px 4px 0 0;
+  position: relative;
+}
+
+.castle::before {
+  content: '';
+  position: absolute;
+  top: -16px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 0;
+  border-left: 16px solid transparent;
+  border-right: 16px solid transparent;
+  border-bottom: 16px solid #9E9E9E;
+}
+
+/* ========================================
+   CHARACTER STYLES
+   ======================================== */
+
+.character {
+  position: relative;
+  width: 32px;
+  height: 48px;
+}
+
+/* Character shadow */
+.character-shadow {
+  position: absolute;
+  bottom: -4px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 24px;
+  height: 8px;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+}
+
+/* ========================================
+   LEVEL NODE STYLES
+   ======================================== */
+
+.level-node {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.level-node:hover {
+  transform: translateY(-4px);
+}
+
+.level-node.locked {
+  filter: grayscale(0.8) brightness(0.6);
+  opacity: 0.6;
+}
+
+.level-node.completed {
+  animation: celebration 0.5s ease-out;
+}
+
+/* Star sparkle effect */
+.sparkle-star {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background: #FFD700;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  animation: sparkle 1.5s ease-in-out infinite;
+}
+
+/* ========================================
+   WARM UI COMPONENTS
+   ======================================== */
+
+/* Card with warm styling */
+.warm-card {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 14px 0 rgba(255, 150, 100, 0.15);
+  border: 1px solid rgba(249, 192, 147, 0.3);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.warm-card:hover {
+  box-shadow: 0 8px 25px -3px rgba(255, 150, 100, 0.2);
+}
+
+.dark .warm-card {
+  background: #252542;
+  border-color: rgba(100, 100, 150, 0.3);
+  box-shadow: 0 4px 14px 0 rgba(0, 0, 0, 0.3);
+}
+
+/* Warm button */
+.warm-btn {
+  background: linear-gradient(135deg, #F9C093 0%, #F5A167 100%);
+  color: white;
+  font-weight: 600;
+  border-radius: 12px;
+  padding: 12px 24px;
+  border: none;
+  box-shadow: 0 4px 0 0 #BD4516, 0 4px 14px 0 rgba(240, 125, 59, 0.3);
+  transition: all 0.1s ease;
+}
+
+.warm-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 0 0 #BD4516, 0 6px 20px 0 rgba(240, 125, 59, 0.4);
+}
+
+.warm-btn:active {
+  transform: translateY(2px);
+  box-shadow: 0 2px 0 0 #BD4516;
+}
+
+/* Progress bar with warm colors */
+.warm-progress {
+  background: #FFF3D1;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.warm-progress-bar {
+  background: linear-gradient(90deg, #FFB61A 0%, #F07D3B 100%);
+  height: 100%;
+  border-radius: 10px;
+  transition: width 0.5s ease;
+}
+
+.dark .warm-progress {
+  background: #3D3D6B;
+}
+
+/* ========================================
+   REACT FLOW OVERRIDES
+   ======================================== */
+
+.react-flow__node {
+  cursor: pointer;
+}
+
+.react-flow__background {
+  background: transparent !important;
+}
+
+.react-flow__controls {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px 0 rgba(255, 150, 100, 0.15);
+  border: 1px solid rgba(249, 192, 147, 0.3);
+  overflow: hidden;
+}
+
+.dark .react-flow__controls {
+  background: #252542;
+  border-color: rgba(100, 100, 150, 0.3);
+}
+
+.react-flow__controls-button {
+  background: transparent;
+  border: none;
+  color: #3D3D3D;
+}
+
+.dark .react-flow__controls-button {
+  color: #F5F5F5;
+}
+
+.react-flow__controls-button:hover {
+  background: rgba(249, 192, 147, 0.2);
+}
+
+.react-flow__minimap {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px 0 rgba(255, 150, 100, 0.15);
+  border: 1px solid rgba(249, 192, 147, 0.3);
+  overflow: hidden;
+}
+
+.dark .react-flow__minimap {
+  background: #252542;
+  border-color: rgba(100, 100, 150, 0.3);
+}

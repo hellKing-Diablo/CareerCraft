@@ -1,0 +1,2728 @@
+[
+  {
+    "id": "javascript",
+    "skillName": "JavaScript",
+    "skillLevel": 5,
+    "jobs": ["Frontend Developer", "Full Stack Developer", "Web Developer", "JavaScript Developer", "React Native Developer"],
+    "domain": ["Software Development", "Web Development", "Mobile Development"],
+    "time": "6 months",
+    "category": "Programming"
+  },
+  {
+    "id": "python",
+    "skillName": "Python",
+    "skillLevel": 5,
+    "jobs": ["Data Scientist", "ML Engineer", "Backend Developer", "Data Analyst", "AI Engineer", "Automation Engineer"],
+    "domain": ["Software Development", "Data Science", "Artificial Intelligence", "DevOps & Infrastructure"],
+    "time": "4 months",
+    "category": "Programming"
+  },
+  {
+    "id": "react",
+    "skillName": "React.js",
+    "skillLevel": 4,
+    "jobs": ["Frontend Developer", "Full Stack Developer", "React Native Developer", "UI Developer"],
+    "domain": ["Software Development", "Web Development", "Mobile Development"],
+    "time": "3 months",
+    "category": "Framework"
+  },
+  {
+    "id": "nodejs",
+    "skillName": "Node.js",
+    "skillLevel": 4,
+    "jobs": ["Backend Developer", "Full Stack Developer", "DevOps Engineer", "API Developer"],
+    "domain": ["Software Development", "Web Development"],
+    "time": "3 months",
+    "category": "Framework"
+  },
+  {
+    "id": "typescript",
+    "skillName": "TypeScript",
+    "skillLevel": 4,
+    "jobs": ["Frontend Developer", "Full Stack Developer", "Software Engineer"],
+    "domain": ["Software Development", "Web Development"],
+    "time": "2 months",
+    "category": "Programming"
+  },
+  {
+    "id": "java",
+    "skillName": "Java",
+    "skillLevel": 5,
+    "jobs": ["Software Engineer", "Backend Developer", "Android Developer", "Enterprise Developer"],
+    "domain": ["Software Development", "Mobile Development"],
+    "time": "6 months",
+    "category": "Programming"
+  },
+  {
+    "id": "csharp",
+    "skillName": "C#",
+    "skillLevel": 5,
+    "jobs": ["Software Engineer", "Game Developer", "Unity Developer", ".NET Developer"],
+    "domain": ["Software Development", "Game Development"],
+    "time": "5 months",
+    "category": "Programming"
+  },
+  {
+    "id": "cpp",
+    "skillName": "C++",
+    "skillLevel": 5,
+    "jobs": ["Software Engineer", "Game Developer", "Embedded Software Engineer", "Systems Developer"],
+    "domain": ["Software Development", "Game Development", "Embedded Systems"],
+    "time": "8 months",
+    "category": "Programming"
+  },
+  {
+    "id": "go",
+    "skillName": "Go (Golang)",
+    "skillLevel": 4,
+    "jobs": ["Backend Developer", "DevOps Engineer", "Cloud Engineer", "Systems Developer"],
+    "domain": ["Software Development", "Cloud Computing", "DevOps & Infrastructure"],
+    "time": "3 months",
+    "category": "Programming"
+  },
+  {
+    "id": "rust",
+    "skillName": "Rust",
+    "skillLevel": 5,
+    "jobs": ["Systems Developer", "Blockchain Developer", "Embedded Software Engineer"],
+    "domain": ["Software Development", "Blockchain & Web3", "Embedded Systems"],
+    "time": "6 months",
+    "category": "Programming"
+  },
+  {
+    "id": "swift",
+    "skillName": "Swift",
+    "skillLevel": 4,
+    "jobs": ["iOS Developer", "Mobile App Developer"],
+    "domain": ["Mobile Development"],
+    "time": "4 months",
+    "category": "Programming"
+  },
+  {
+    "id": "kotlin",
+    "skillName": "Kotlin",
+    "skillLevel": 4,
+    "jobs": ["Android Developer", "Mobile App Developer", "Backend Developer"],
+    "domain": ["Mobile Development", "Software Development"],
+    "time": "3 months",
+    "category": "Programming"
+  },
+  {
+    "id": "php",
+    "skillName": "PHP",
+    "skillLevel": 4,
+    "jobs": ["Web Developer", "Backend Developer", "WordPress Developer", "PHP Developer"],
+    "domain": ["Web Development"],
+    "time": "3 months",
+    "category": "Programming"
+  },
+  {
+    "id": "ruby",
+    "skillName": "Ruby",
+    "skillLevel": 4,
+    "jobs": ["Backend Developer", "Full Stack Developer", "Ruby on Rails Developer"],
+    "domain": ["Software Development", "Web Development"],
+    "time": "3 months",
+    "category": "Programming"
+  },
+  {
+    "id": "sql",
+    "skillName": "SQL",
+    "skillLevel": 4,
+    "jobs": ["Data Analyst", "Database Administrator", "Backend Developer", "Data Engineer", "Business Intelligence Analyst"],
+    "domain": ["Database Administration", "Data Science", "Software Development"],
+    "time": "2 months",
+    "category": "Database"
+  },
+  {
+    "id": "postgresql",
+    "skillName": "PostgreSQL",
+    "skillLevel": 4,
+    "jobs": ["Database Administrator", "Backend Developer", "Data Engineer"],
+    "domain": ["Database Administration", "Software Development"],
+    "time": "2 months",
+    "category": "Database"
+  },
+  {
+    "id": "mongodb",
+    "skillName": "MongoDB",
+    "skillLevel": 3,
+    "jobs": ["Backend Developer", "Full Stack Developer", "NoSQL Specialist", "Data Engineer"],
+    "domain": ["Database Administration", "Software Development"],
+    "time": "1 month",
+    "category": "Database"
+  },
+  {
+    "id": "redis",
+    "skillName": "Redis",
+    "skillLevel": 3,
+    "jobs": ["Backend Developer", "DevOps Engineer", "Software Architect"],
+    "domain": ["Software Development", "DevOps & Infrastructure"],
+    "time": "1 month",
+    "category": "Database"
+  },
+  {
+    "id": "mysql",
+    "skillName": "MySQL",
+    "skillLevel": 3,
+    "jobs": ["Database Administrator", "Backend Developer", "Web Developer"],
+    "domain": ["Database Administration", "Web Development"],
+    "time": "2 months",
+    "category": "Database"
+  },
+  {
+    "id": "aws",
+    "skillName": "Amazon Web Services (AWS)",
+    "skillLevel": 5,
+    "jobs": ["Cloud Architect", "AWS Solutions Architect", "DevOps Engineer", "Cloud Engineer"],
+    "domain": ["Cloud Computing", "DevOps & Infrastructure"],
+    "time": "6 months",
+    "category": "Cloud"
+  },
+  {
+    "id": "azure",
+    "skillName": "Microsoft Azure",
+    "skillLevel": 5,
+    "jobs": ["Cloud Architect", "Azure Administrator", "DevOps Engineer", "Cloud Engineer"],
+    "domain": ["Cloud Computing", "DevOps & Infrastructure"],
+    "time": "6 months",
+    "category": "Cloud"
+  },
+  {
+    "id": "gcp",
+    "skillName": "Google Cloud Platform",
+    "skillLevel": 5,
+    "jobs": ["Cloud Architect", "GCP Engineer", "DevOps Engineer", "Data Engineer"],
+    "domain": ["Cloud Computing", "DevOps & Infrastructure"],
+    "time": "6 months",
+    "category": "Cloud"
+  },
+  {
+    "id": "docker",
+    "skillName": "Docker",
+    "skillLevel": 4,
+    "jobs": ["DevOps Engineer", "Backend Developer", "Cloud Engineer", "Platform Engineer"],
+    "domain": ["DevOps & Infrastructure", "Software Development", "Cloud Computing"],
+    "time": "2 months",
+    "category": "DevOps"
+  },
+  {
+    "id": "kubernetes",
+    "skillName": "Kubernetes",
+    "skillLevel": 5,
+    "jobs": ["DevOps Engineer", "Platform Engineer", "Cloud Architect", "Site Reliability Engineer"],
+    "domain": ["DevOps & Infrastructure", "Cloud Computing"],
+    "time": "4 months",
+    "category": "DevOps"
+  },
+  {
+    "id": "terraform",
+    "skillName": "Terraform",
+    "skillLevel": 4,
+    "jobs": ["DevOps Engineer", "Cloud Engineer", "Infrastructure Engineer"],
+    "domain": ["DevOps & Infrastructure", "Cloud Computing"],
+    "time": "2 months",
+    "category": "DevOps"
+  },
+  {
+    "id": "jenkins",
+    "skillName": "Jenkins",
+    "skillLevel": 3,
+    "jobs": ["DevOps Engineer", "Build Engineer", "Release Manager"],
+    "domain": ["DevOps & Infrastructure"],
+    "time": "1 month",
+    "category": "DevOps"
+  },
+  {
+    "id": "git",
+    "skillName": "Git & Version Control",
+    "skillLevel": 3,
+    "jobs": ["Software Engineer", "Frontend Developer", "Backend Developer", "DevOps Engineer"],
+    "domain": ["Software Development", "Web Development", "DevOps & Infrastructure"],
+    "time": "2 weeks",
+    "category": "Tools"
+  },
+  {
+    "id": "cicd",
+    "skillName": "CI/CD Pipelines",
+    "skillLevel": 4,
+    "jobs": ["DevOps Engineer", "Release Manager", "Platform Engineer"],
+    "domain": ["DevOps & Infrastructure"],
+    "time": "2 months",
+    "category": "DevOps"
+  },
+  {
+    "id": "linux",
+    "skillName": "Linux Administration",
+    "skillLevel": 4,
+    "jobs": ["System Administrator", "DevOps Engineer", "Cloud Engineer", "Network Administrator"],
+    "domain": ["IT Support & Services", "DevOps & Infrastructure", "Network Engineering"],
+    "time": "3 months",
+    "category": "System Administration"
+  },
+  {
+    "id": "networking",
+    "skillName": "Computer Networking",
+    "skillLevel": 4,
+    "jobs": ["Network Engineer", "Network Administrator", "Cloud Engineer", "Security Engineer"],
+    "domain": ["Network Engineering", "IT Support & Services", "Cybersecurity"],
+    "time": "4 months",
+    "category": "Networking"
+  },
+  {
+    "id": "machine-learning",
+    "skillName": "Machine Learning",
+    "skillLevel": 5,
+    "jobs": ["ML Engineer", "Data Scientist", "AI Engineer", "Research Scientist"],
+    "domain": ["Artificial Intelligence", "Data Science"],
+    "time": "8 months",
+    "category": "AI/ML"
+  },
+  {
+    "id": "deep-learning",
+    "skillName": "Deep Learning",
+    "skillLevel": 5,
+    "jobs": ["Deep Learning Engineer", "AI Engineer", "Research Scientist", "Computer Vision Engineer"],
+    "domain": ["Artificial Intelligence"],
+    "time": "6 months",
+    "category": "AI/ML"
+  },
+  {
+    "id": "tensorflow",
+    "skillName": "TensorFlow",
+    "skillLevel": 4,
+    "jobs": ["ML Engineer", "Deep Learning Engineer", "AI Engineer"],
+    "domain": ["Artificial Intelligence", "Data Science"],
+    "time": "3 months",
+    "category": "AI/ML"
+  },
+  {
+    "id": "pytorch",
+    "skillName": "PyTorch",
+    "skillLevel": 4,
+    "jobs": ["ML Engineer", "Deep Learning Engineer", "Research Scientist"],
+    "domain": ["Artificial Intelligence", "Data Science"],
+    "time": "3 months",
+    "category": "AI/ML"
+  },
+  {
+    "id": "nlp",
+    "skillName": "Natural Language Processing",
+    "skillLevel": 5,
+    "jobs": ["NLP Engineer", "AI Engineer", "Data Scientist", "Computational Linguist"],
+    "domain": ["Artificial Intelligence", "Linguistics"],
+    "time": "6 months",
+    "category": "AI/ML"
+  },
+  {
+    "id": "computer-vision",
+    "skillName": "Computer Vision",
+    "skillLevel": 5,
+    "jobs": ["Computer Vision Engineer", "AI Engineer", "Robotics Engineer"],
+    "domain": ["Artificial Intelligence", "Robotics"],
+    "time": "6 months",
+    "category": "AI/ML"
+  },
+  {
+    "id": "data-analysis",
+    "skillName": "Data Analysis",
+    "skillLevel": 4,
+    "jobs": ["Data Analyst", "Business Analyst", "Market Research Analyst", "Financial Analyst"],
+    "domain": ["Data Science", "Business Analysis", "Market Research"],
+    "time": "3 months",
+    "category": "Data"
+  },
+  {
+    "id": "data-visualization",
+    "skillName": "Data Visualization",
+    "skillLevel": 3,
+    "jobs": ["Data Analyst", "Business Intelligence Analyst", "Data Scientist"],
+    "domain": ["Data Science", "Business Analysis"],
+    "time": "2 months",
+    "category": "Data"
+  },
+  {
+    "id": "tableau",
+    "skillName": "Tableau",
+    "skillLevel": 3,
+    "jobs": ["Data Analyst", "Business Intelligence Analyst", "Data Visualization Specialist"],
+    "domain": ["Data Science", "Business Analysis"],
+    "time": "1 month",
+    "category": "Tools"
+  },
+  {
+    "id": "power-bi",
+    "skillName": "Power BI",
+    "skillLevel": 3,
+    "jobs": ["Data Analyst", "Business Intelligence Analyst", "Report Developer"],
+    "domain": ["Data Science", "Business Analysis"],
+    "time": "1 month",
+    "category": "Tools"
+  },
+  {
+    "id": "excel-advanced",
+    "skillName": "Advanced Excel",
+    "skillLevel": 3,
+    "jobs": ["Data Analyst", "Financial Analyst", "Business Analyst", "Accountant"],
+    "domain": ["Data Science", "Finance & Accounting", "Business Analysis"],
+    "time": "1 month",
+    "category": "Tools"
+  },
+  {
+    "id": "pandas",
+    "skillName": "Pandas",
+    "skillLevel": 3,
+    "jobs": ["Data Scientist", "Data Analyst", "ML Engineer"],
+    "domain": ["Data Science"],
+    "time": "1 month",
+    "category": "Data"
+  },
+  {
+    "id": "numpy",
+    "skillName": "NumPy",
+    "skillLevel": 3,
+    "jobs": ["Data Scientist", "ML Engineer", "Research Scientist"],
+    "domain": ["Data Science", "Artificial Intelligence"],
+    "time": "2 weeks",
+    "category": "Data"
+  },
+  {
+    "id": "scikit-learn",
+    "skillName": "Scikit-learn",
+    "skillLevel": 3,
+    "jobs": ["Data Scientist", "ML Engineer"],
+    "domain": ["Data Science", "Artificial Intelligence"],
+    "time": "1 month",
+    "category": "AI/ML"
+  },
+  {
+    "id": "spark",
+    "skillName": "Apache Spark",
+    "skillLevel": 4,
+    "jobs": ["Data Engineer", "Big Data Engineer", "Data Scientist"],
+    "domain": ["Data Science"],
+    "time": "3 months",
+    "category": "Data"
+  },
+  {
+    "id": "hadoop",
+    "skillName": "Hadoop",
+    "skillLevel": 4,
+    "jobs": ["Data Engineer", "Big Data Engineer"],
+    "domain": ["Data Science"],
+    "time": "3 months",
+    "category": "Data"
+  },
+  {
+    "id": "kafka",
+    "skillName": "Apache Kafka",
+    "skillLevel": 4,
+    "jobs": ["Data Engineer", "Backend Developer", "DevOps Engineer"],
+    "domain": ["Data Science", "Software Development"],
+    "time": "2 months",
+    "category": "Data"
+  },
+  {
+    "id": "airflow",
+    "skillName": "Apache Airflow",
+    "skillLevel": 3,
+    "jobs": ["Data Engineer", "ML Engineer"],
+    "domain": ["Data Science"],
+    "time": "1 month",
+    "category": "Data"
+  },
+  {
+    "id": "cybersecurity-fundamentals",
+    "skillName": "Cybersecurity Fundamentals",
+    "skillLevel": 3,
+    "jobs": ["Security Analyst", "Security Engineer", "IT Support Specialist"],
+    "domain": ["Cybersecurity", "IT Support & Services"],
+    "time": "3 months",
+    "category": "Security"
+  },
+  {
+    "id": "penetration-testing",
+    "skillName": "Penetration Testing",
+    "skillLevel": 5,
+    "jobs": ["Penetration Tester", "Ethical Hacker", "Security Consultant"],
+    "domain": ["Cybersecurity"],
+    "time": "6 months",
+    "category": "Security"
+  },
+  {
+    "id": "network-security",
+    "skillName": "Network Security",
+    "skillLevel": 4,
+    "jobs": ["Network Security Engineer", "Security Analyst", "Security Architect"],
+    "domain": ["Cybersecurity", "Network Engineering"],
+    "time": "4 months",
+    "category": "Security"
+  },
+  {
+    "id": "siem",
+    "skillName": "SIEM Tools",
+    "skillLevel": 4,
+    "jobs": ["Security Analyst", "Incident Response Analyst", "SOC Analyst"],
+    "domain": ["Cybersecurity"],
+    "time": "3 months",
+    "category": "Security"
+  },
+  {
+    "id": "incident-response",
+    "skillName": "Incident Response",
+    "skillLevel": 4,
+    "jobs": ["Incident Response Analyst", "Security Analyst", "CISO"],
+    "domain": ["Cybersecurity"],
+    "time": "4 months",
+    "category": "Security"
+  },
+  {
+    "id": "cryptography",
+    "skillName": "Cryptography",
+    "skillLevel": 5,
+    "jobs": ["Cryptographer", "Security Engineer", "Blockchain Developer"],
+    "domain": ["Cybersecurity", "Blockchain & Web3"],
+    "time": "6 months",
+    "category": "Security"
+  },
+  {
+    "id": "ethical-hacking",
+    "skillName": "Ethical Hacking",
+    "skillLevel": 5,
+    "jobs": ["Ethical Hacker", "Penetration Tester", "Security Consultant"],
+    "domain": ["Cybersecurity"],
+    "time": "8 months",
+    "category": "Security"
+  },
+  {
+    "id": "ceh-certification",
+    "skillName": "CEH Certification",
+    "skillLevel": 4,
+    "jobs": ["Ethical Hacker", "Security Analyst", "Penetration Tester"],
+    "domain": ["Cybersecurity"],
+    "time": "3 months",
+    "category": "Certification"
+  },
+  {
+    "id": "cissp-certification",
+    "skillName": "CISSP Certification",
+    "skillLevel": 5,
+    "jobs": ["CISO", "Security Architect", "Security Manager"],
+    "domain": ["Cybersecurity"],
+    "time": "6 months",
+    "category": "Certification"
+  },
+  {
+    "id": "html-css",
+    "skillName": "HTML & CSS",
+    "skillLevel": 2,
+    "jobs": ["Web Developer", "Frontend Developer", "UI Developer", "Web Designer"],
+    "domain": ["Web Development", "UI/UX Design"],
+    "time": "1 month",
+    "category": "Programming"
+  },
+  {
+    "id": "sass",
+    "skillName": "Sass/SCSS",
+    "skillLevel": 2,
+    "jobs": ["Frontend Developer", "Web Developer"],
+    "domain": ["Web Development"],
+    "time": "2 weeks",
+    "category": "Programming"
+  },
+  {
+    "id": "tailwindcss",
+    "skillName": "Tailwind CSS",
+    "skillLevel": 2,
+    "jobs": ["Frontend Developer", "Full Stack Developer"],
+    "domain": ["Web Development"],
+    "time": "2 weeks",
+    "category": "Framework"
+  },
+  {
+    "id": "bootstrap",
+    "skillName": "Bootstrap",
+    "skillLevel": 2,
+    "jobs": ["Web Developer", "Frontend Developer"],
+    "domain": ["Web Development"],
+    "time": "2 weeks",
+    "category": "Framework"
+  },
+  {
+    "id": "vuejs",
+    "skillName": "Vue.js",
+    "skillLevel": 4,
+    "jobs": ["Frontend Developer", "Full Stack Developer"],
+    "domain": ["Web Development", "Software Development"],
+    "time": "3 months",
+    "category": "Framework"
+  },
+  {
+    "id": "angular",
+    "skillName": "Angular",
+    "skillLevel": 4,
+    "jobs": ["Frontend Developer", "Full Stack Developer"],
+    "domain": ["Web Development", "Software Development"],
+    "time": "4 months",
+    "category": "Framework"
+  },
+  {
+    "id": "nextjs",
+    "skillName": "Next.js",
+    "skillLevel": 4,
+    "jobs": ["Frontend Developer", "Full Stack Developer"],
+    "domain": ["Web Development"],
+    "time": "2 months",
+    "category": "Framework"
+  },
+  {
+    "id": "graphql",
+    "skillName": "GraphQL",
+    "skillLevel": 3,
+    "jobs": ["Backend Developer", "Full Stack Developer", "API Developer"],
+    "domain": ["Software Development", "Web Development"],
+    "time": "1 month",
+    "category": "API"
+  },
+  {
+    "id": "rest-api",
+    "skillName": "REST API Design",
+    "skillLevel": 3,
+    "jobs": ["Backend Developer", "Full Stack Developer", "API Developer"],
+    "domain": ["Software Development", "Web Development"],
+    "time": "1 month",
+    "category": "API"
+  },
+  {
+    "id": "flutter",
+    "skillName": "Flutter",
+    "skillLevel": 4,
+    "jobs": ["Flutter Developer", "Mobile App Developer"],
+    "domain": ["Mobile Development"],
+    "time": "4 months",
+    "category": "Framework"
+  },
+  {
+    "id": "react-native",
+    "skillName": "React Native",
+    "skillLevel": 4,
+    "jobs": ["React Native Developer", "Mobile App Developer"],
+    "domain": ["Mobile Development"],
+    "time": "3 months",
+    "category": "Framework"
+  },
+  {
+    "id": "ios-development",
+    "skillName": "iOS Development",
+    "skillLevel": 5,
+    "jobs": ["iOS Developer", "Mobile App Developer"],
+    "domain": ["Mobile Development"],
+    "time": "6 months",
+    "category": "Mobile"
+  },
+  {
+    "id": "android-development",
+    "skillName": "Android Development",
+    "skillLevel": 5,
+    "jobs": ["Android Developer", "Mobile App Developer"],
+    "domain": ["Mobile Development"],
+    "time": "6 months",
+    "category": "Mobile"
+  },
+  {
+    "id": "unity",
+    "skillName": "Unity Engine",
+    "skillLevel": 5,
+    "jobs": ["Unity Developer", "Game Developer", "VR Developer"],
+    "domain": ["Game Development", "AR/VR Development"],
+    "time": "8 months",
+    "category": "Game Engine"
+  },
+  {
+    "id": "unreal-engine",
+    "skillName": "Unreal Engine",
+    "skillLevel": 5,
+    "jobs": ["Unreal Engine Developer", "Game Developer", "VR Developer"],
+    "domain": ["Game Development", "AR/VR Development"],
+    "time": "10 months",
+    "category": "Game Engine"
+  },
+  {
+    "id": "game-design",
+    "skillName": "Game Design Principles",
+    "skillLevel": 4,
+    "jobs": ["Game Designer", "Level Designer", "Game Director"],
+    "domain": ["Game Development"],
+    "time": "4 months",
+    "category": "Design"
+  },
+  {
+    "id": "3d-modeling",
+    "skillName": "3D Modeling",
+    "skillLevel": 4,
+    "jobs": ["3D Artist", "Game Artist", "VFX Artist", "Metaverse Developer"],
+    "domain": ["Game Development", "Motion Graphics & Animation", "AR/VR Development"],
+    "time": "6 months",
+    "category": "Design"
+  },
+  {
+    "id": "blender",
+    "skillName": "Blender",
+    "skillLevel": 4,
+    "jobs": ["3D Artist", "Game Artist", "Animator"],
+    "domain": ["Game Development", "Motion Graphics & Animation"],
+    "time": "4 months",
+    "category": "Tools"
+  },
+  {
+    "id": "maya",
+    "skillName": "Autodesk Maya",
+    "skillLevel": 4,
+    "jobs": ["3D Animator", "Character Animator", "VFX Artist"],
+    "domain": ["Motion Graphics & Animation", "Film Production"],
+    "time": "6 months",
+    "category": "Tools"
+  },
+  {
+    "id": "solidity",
+    "skillName": "Solidity",
+    "skillLevel": 5,
+    "jobs": ["Smart Contract Developer", "Blockchain Developer", "DeFi Developer"],
+    "domain": ["Blockchain & Web3", "Decentralized Finance (DeFi)"],
+    "time": "4 months",
+    "category": "Programming"
+  },
+  {
+    "id": "web3",
+    "skillName": "Web3 Development",
+    "skillLevel": 5,
+    "jobs": ["Web3 Engineer", "Blockchain Developer", "DApp Developer"],
+    "domain": ["Blockchain & Web3"],
+    "time": "6 months",
+    "category": "Programming"
+  },
+  {
+    "id": "smart-contracts",
+    "skillName": "Smart Contract Development",
+    "skillLevel": 5,
+    "jobs": ["Smart Contract Developer", "Blockchain Developer", "DeFi Developer"],
+    "domain": ["Blockchain & Web3", "Decentralized Finance (DeFi)"],
+    "time": "5 months",
+    "category": "Programming"
+  },
+  {
+    "id": "ethereum",
+    "skillName": "Ethereum Development",
+    "skillLevel": 4,
+    "jobs": ["Blockchain Developer", "DApp Developer", "Web3 Engineer"],
+    "domain": ["Blockchain & Web3"],
+    "time": "4 months",
+    "category": "Blockchain"
+  },
+  {
+    "id": "defi-protocols",
+    "skillName": "DeFi Protocols",
+    "skillLevel": 4,
+    "jobs": ["DeFi Developer", "DeFi Analyst", "Tokenomics Designer"],
+    "domain": ["Decentralized Finance (DeFi)", "Blockchain & Web3"],
+    "time": "3 months",
+    "category": "Blockchain"
+  },
+  {
+    "id": "ui-design",
+    "skillName": "UI Design",
+    "skillLevel": 4,
+    "jobs": ["UI Designer", "Product Designer", "Visual Designer"],
+    "domain": ["UI/UX Design", "Graphic Design"],
+    "time": "4 months",
+    "category": "Design"
+  },
+  {
+    "id": "ux-design",
+    "skillName": "UX Design",
+    "skillLevel": 4,
+    "jobs": ["UX Designer", "Product Designer", "UX Researcher"],
+    "domain": ["UI/UX Design"],
+    "time": "4 months",
+    "category": "Design"
+  },
+  {
+    "id": "figma",
+    "skillName": "Figma",
+    "skillLevel": 3,
+    "jobs": ["UI Designer", "UX Designer", "Product Designer", "Web Designer"],
+    "domain": ["UI/UX Design", "Graphic Design"],
+    "time": "1 month",
+    "category": "Tools"
+  },
+  {
+    "id": "adobe-xd",
+    "skillName": "Adobe XD",
+    "skillLevel": 3,
+    "jobs": ["UI Designer", "UX Designer", "Product Designer"],
+    "domain": ["UI/UX Design"],
+    "time": "1 month",
+    "category": "Tools"
+  },
+  {
+    "id": "sketch",
+    "skillName": "Sketch",
+    "skillLevel": 3,
+    "jobs": ["UI Designer", "Product Designer"],
+    "domain": ["UI/UX Design"],
+    "time": "1 month",
+    "category": "Tools"
+  },
+  {
+    "id": "prototyping",
+    "skillName": "Prototyping",
+    "skillLevel": 3,
+    "jobs": ["UX Designer", "Product Designer", "Interaction Designer"],
+    "domain": ["UI/UX Design"],
+    "time": "2 months",
+    "category": "Design"
+  },
+  {
+    "id": "user-research",
+    "skillName": "User Research",
+    "skillLevel": 4,
+    "jobs": ["UX Researcher", "UX Designer", "Product Manager"],
+    "domain": ["UI/UX Design", "Product Management"],
+    "time": "3 months",
+    "category": "Research"
+  },
+  {
+    "id": "wireframing",
+    "skillName": "Wireframing",
+    "skillLevel": 2,
+    "jobs": ["UX Designer", "Product Designer", "UI Designer"],
+    "domain": ["UI/UX Design"],
+    "time": "2 weeks",
+    "category": "Design"
+  },
+  {
+    "id": "adobe-photoshop",
+    "skillName": "Adobe Photoshop",
+    "skillLevel": 4,
+    "jobs": ["Graphic Designer", "Photo Editor", "Digital Artist", "Web Designer"],
+    "domain": ["Graphic Design", "Photography"],
+    "time": "3 months",
+    "category": "Tools"
+  },
+  {
+    "id": "adobe-illustrator",
+    "skillName": "Adobe Illustrator",
+    "skillLevel": 4,
+    "jobs": ["Graphic Designer", "Logo Designer", "Brand Designer", "Illustrator"],
+    "domain": ["Graphic Design"],
+    "time": "3 months",
+    "category": "Tools"
+  },
+  {
+    "id": "adobe-indesign",
+    "skillName": "Adobe InDesign",
+    "skillLevel": 3,
+    "jobs": ["Graphic Designer", "Print Designer", "Publication Designer"],
+    "domain": ["Graphic Design"],
+    "time": "2 months",
+    "category": "Tools"
+  },
+  {
+    "id": "branding",
+    "skillName": "Branding & Identity",
+    "skillLevel": 4,
+    "jobs": ["Brand Designer", "Creative Director", "Brand Manager"],
+    "domain": ["Graphic Design", "Brand Management"],
+    "time": "4 months",
+    "category": "Design"
+  },
+  {
+    "id": "typography",
+    "skillName": "Typography",
+    "skillLevel": 3,
+    "jobs": ["Graphic Designer", "UI Designer", "Print Designer"],
+    "domain": ["Graphic Design", "UI/UX Design"],
+    "time": "2 months",
+    "category": "Design"
+  },
+  {
+    "id": "after-effects",
+    "skillName": "Adobe After Effects",
+    "skillLevel": 4,
+    "jobs": ["Motion Designer", "VFX Artist", "Video Editor", "After Effects Artist"],
+    "domain": ["Motion Graphics & Animation", "Film Production"],
+    "time": "4 months",
+    "category": "Tools"
+  },
+  {
+    "id": "premiere-pro",
+    "skillName": "Adobe Premiere Pro",
+    "skillLevel": 3,
+    "jobs": ["Video Editor", "Film Editor", "Content Creator"],
+    "domain": ["Film Production", "Content Creation"],
+    "time": "2 months",
+    "category": "Tools"
+  },
+  {
+    "id": "motion-graphics",
+    "skillName": "Motion Graphics",
+    "skillLevel": 4,
+    "jobs": ["Motion Designer", "2D Animator", "Video Editor"],
+    "domain": ["Motion Graphics & Animation"],
+    "time": "4 months",
+    "category": "Design"
+  },
+  {
+    "id": "animation-principles",
+    "skillName": "Animation Principles",
+    "skillLevel": 4,
+    "jobs": ["Animator", "Character Animator", "Motion Designer"],
+    "domain": ["Motion Graphics & Animation"],
+    "time": "4 months",
+    "category": "Design"
+  },
+  {
+    "id": "product-strategy",
+    "skillName": "Product Strategy",
+    "skillLevel": 5,
+    "jobs": ["Product Manager", "Director of Product", "VP of Product", "CPO"],
+    "domain": ["Product Management"],
+    "time": "6 months",
+    "category": "Product"
+  },
+  {
+    "id": "product-roadmapping",
+    "skillName": "Product Roadmapping",
+    "skillLevel": 4,
+    "jobs": ["Product Manager", "Senior Product Manager", "Product Owner"],
+    "domain": ["Product Management"],
+    "time": "3 months",
+    "category": "Product"
+  },
+  {
+    "id": "agile-methodology",
+    "skillName": "Agile Methodology",
+    "skillLevel": 3,
+    "jobs": ["Product Manager", "Scrum Master", "Agile Coach", "Project Manager"],
+    "domain": ["Product Management", "Project Management"],
+    "time": "2 months",
+    "category": "Methodology"
+  },
+  {
+    "id": "scrum",
+    "skillName": "Scrum Framework",
+    "skillLevel": 3,
+    "jobs": ["Scrum Master", "Product Owner", "Agile Coach"],
+    "domain": ["Project Management", "Product Management"],
+    "time": "1 month",
+    "category": "Methodology"
+  },
+  {
+    "id": "jira",
+    "skillName": "Jira",
+    "skillLevel": 2,
+    "jobs": ["Project Manager", "Product Manager", "Scrum Master"],
+    "domain": ["Project Management", "Product Management"],
+    "time": "2 weeks",
+    "category": "Tools"
+  },
+  {
+    "id": "project-planning",
+    "skillName": "Project Planning",
+    "skillLevel": 4,
+    "jobs": ["Project Manager", "Program Manager", "PMO Director"],
+    "domain": ["Project Management"],
+    "time": "3 months",
+    "category": "Management"
+  },
+  {
+    "id": "risk-management",
+    "skillName": "Risk Management",
+    "skillLevel": 4,
+    "jobs": ["Project Manager", "Risk Manager", "Insurance Analyst"],
+    "domain": ["Project Management", "Insurance"],
+    "time": "3 months",
+    "category": "Management"
+  },
+  {
+    "id": "stakeholder-management",
+    "skillName": "Stakeholder Management",
+    "skillLevel": 4,
+    "jobs": ["Project Manager", "Product Manager", "Program Manager"],
+    "domain": ["Project Management", "Product Management"],
+    "time": "3 months",
+    "category": "Management"
+  },
+  {
+    "id": "pmp-certification",
+    "skillName": "PMP Certification",
+    "skillLevel": 5,
+    "jobs": ["Project Manager", "Program Manager", "PMO Director"],
+    "domain": ["Project Management"],
+    "time": "4 months",
+    "category": "Certification"
+  },
+  {
+    "id": "requirements-analysis",
+    "skillName": "Requirements Analysis",
+    "skillLevel": 4,
+    "jobs": ["Business Analyst", "Systems Analyst", "Requirements Analyst"],
+    "domain": ["Business Analysis"],
+    "time": "3 months",
+    "category": "Analysis"
+  },
+  {
+    "id": "process-modeling",
+    "skillName": "Process Modeling",
+    "skillLevel": 4,
+    "jobs": ["Business Analyst", "Process Analyst", "Operations Consultant"],
+    "domain": ["Business Analysis", "Management Consulting"],
+    "time": "3 months",
+    "category": "Analysis"
+  },
+  {
+    "id": "seo",
+    "skillName": "Search Engine Optimization",
+    "skillLevel": 4,
+    "jobs": ["SEO Specialist", "Digital Marketing Manager", "Content Strategist"],
+    "domain": ["Digital Marketing"],
+    "time": "4 months",
+    "category": "Marketing"
+  },
+  {
+    "id": "sem",
+    "skillName": "Search Engine Marketing",
+    "skillLevel": 4,
+    "jobs": ["SEM Specialist", "Digital Marketing Manager", "Performance Marketer"],
+    "domain": ["Digital Marketing"],
+    "time": "3 months",
+    "category": "Marketing"
+  },
+  {
+    "id": "google-ads",
+    "skillName": "Google Ads",
+    "skillLevel": 4,
+    "jobs": ["SEM Specialist", "Performance Marketer", "Digital Marketing Manager"],
+    "domain": ["Digital Marketing", "Advertising"],
+    "time": "2 months",
+    "category": "Marketing"
+  },
+  {
+    "id": "facebook-ads",
+    "skillName": "Meta/Facebook Ads",
+    "skillLevel": 4,
+    "jobs": ["Social Media Manager", "Performance Marketer", "Growth Hacker"],
+    "domain": ["Digital Marketing", "Social Media Marketing"],
+    "time": "2 months",
+    "category": "Marketing"
+  },
+  {
+    "id": "email-marketing",
+    "skillName": "Email Marketing",
+    "skillLevel": 3,
+    "jobs": ["Email Marketing Specialist", "Digital Marketing Manager", "Growth Marketer"],
+    "domain": ["Digital Marketing"],
+    "time": "2 months",
+    "category": "Marketing"
+  },
+  {
+    "id": "content-marketing",
+    "skillName": "Content Marketing",
+    "skillLevel": 4,
+    "jobs": ["Content Marketing Manager", "Content Strategist", "Digital Marketing Manager"],
+    "domain": ["Content Creation", "Digital Marketing"],
+    "time": "4 months",
+    "category": "Marketing"
+  },
+  {
+    "id": "google-analytics",
+    "skillName": "Google Analytics",
+    "skillLevel": 3,
+    "jobs": ["Digital Marketing Manager", "Data Analyst", "Growth Marketer"],
+    "domain": ["Digital Marketing", "Data Science"],
+    "time": "1 month",
+    "category": "Tools"
+  },
+  {
+    "id": "social-media-management",
+    "skillName": "Social Media Management",
+    "skillLevel": 3,
+    "jobs": ["Social Media Manager", "Community Manager", "Digital Marketing Manager"],
+    "domain": ["Social Media Marketing"],
+    "time": "2 months",
+    "category": "Marketing"
+  },
+  {
+    "id": "copywriting",
+    "skillName": "Copywriting",
+    "skillLevel": 4,
+    "jobs": ["Copywriter", "Content Writer", "Creative Director", "UX Writer"],
+    "domain": ["Content Creation", "Advertising"],
+    "time": "4 months",
+    "category": "Writing"
+  },
+  {
+    "id": "technical-writing",
+    "skillName": "Technical Writing",
+    "skillLevel": 4,
+    "jobs": ["Technical Writer", "Documentation Specialist", "API Writer"],
+    "domain": ["Technical Writing", "Software Development"],
+    "time": "4 months",
+    "category": "Writing"
+  },
+  {
+    "id": "content-strategy",
+    "skillName": "Content Strategy",
+    "skillLevel": 4,
+    "jobs": ["Content Strategist", "Content Director", "Head of Content"],
+    "domain": ["Content Creation", "Digital Marketing"],
+    "time": "4 months",
+    "category": "Strategy"
+  },
+  {
+    "id": "sales-fundamentals",
+    "skillName": "Sales Fundamentals",
+    "skillLevel": 3,
+    "jobs": ["Sales Representative", "Account Executive", "Inside Sales Rep"],
+    "domain": ["Sales"],
+    "time": "2 months",
+    "category": "Sales"
+  },
+  {
+    "id": "b2b-sales",
+    "skillName": "B2B Sales",
+    "skillLevel": 4,
+    "jobs": ["Account Executive", "Enterprise Sales Rep", "Business Development Manager"],
+    "domain": ["Sales"],
+    "time": "4 months",
+    "category": "Sales"
+  },
+  {
+    "id": "salesforce",
+    "skillName": "Salesforce CRM",
+    "skillLevel": 3,
+    "jobs": ["Sales Representative", "Sales Operations", "CRM Administrator"],
+    "domain": ["Sales", "Customer Success"],
+    "time": "2 months",
+    "category": "Tools"
+  },
+  {
+    "id": "negotiation",
+    "skillName": "Negotiation Skills",
+    "skillLevel": 4,
+    "jobs": ["Sales Manager", "Business Development Manager", "Buyer", "Procurement Manager"],
+    "domain": ["Sales", "Supply Chain Management"],
+    "time": "3 months",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "customer-relationship",
+    "skillName": "Customer Relationship Management",
+    "skillLevel": 4,
+    "jobs": ["Customer Success Manager", "Account Manager", "Relationship Manager"],
+    "domain": ["Customer Success", "Sales"],
+    "time": "3 months",
+    "category": "Management"
+  },
+  {
+    "id": "recruiting",
+    "skillName": "Recruiting & Talent Acquisition",
+    "skillLevel": 4,
+    "jobs": ["Recruiter", "Talent Acquisition Specialist", "HR Manager"],
+    "domain": ["Human Resources"],
+    "time": "4 months",
+    "category": "HR"
+  },
+  {
+    "id": "employee-relations",
+    "skillName": "Employee Relations",
+    "skillLevel": 4,
+    "jobs": ["HR Business Partner", "HR Manager", "Employee Relations Specialist"],
+    "domain": ["Human Resources"],
+    "time": "4 months",
+    "category": "HR"
+  },
+  {
+    "id": "compensation-benefits",
+    "skillName": "Compensation & Benefits",
+    "skillLevel": 4,
+    "jobs": ["Compensation Analyst", "Benefits Manager", "Total Rewards Specialist"],
+    "domain": ["Human Resources"],
+    "time": "4 months",
+    "category": "HR"
+  },
+  {
+    "id": "hr-analytics",
+    "skillName": "HR Analytics",
+    "skillLevel": 4,
+    "jobs": ["People Analytics Specialist", "HR Data Analyst", "HRIS Analyst"],
+    "domain": ["Human Resources", "HRTech"],
+    "time": "3 months",
+    "category": "HR"
+  },
+  {
+    "id": "financial-accounting",
+    "skillName": "Financial Accounting",
+    "skillLevel": 5,
+    "jobs": ["Accountant", "Financial Analyst", "Controller", "CFO"],
+    "domain": ["Finance & Accounting"],
+    "time": "6 months",
+    "category": "Finance"
+  },
+  {
+    "id": "management-accounting",
+    "skillName": "Management Accounting",
+    "skillLevel": 4,
+    "jobs": ["Management Accountant", "Controller", "Finance Manager"],
+    "domain": ["Finance & Accounting"],
+    "time": "4 months",
+    "category": "Finance"
+  },
+  {
+    "id": "financial-modeling",
+    "skillName": "Financial Modeling",
+    "skillLevel": 5,
+    "jobs": ["Financial Analyst", "Investment Banker", "PE Analyst", "VC Analyst"],
+    "domain": ["Finance & Accounting", "Investment Banking", "Private Equity", "Venture Capital"],
+    "time": "4 months",
+    "category": "Finance"
+  },
+  {
+    "id": "valuation",
+    "skillName": "Business Valuation",
+    "skillLevel": 5,
+    "jobs": ["Investment Banker", "M&A Analyst", "Valuation Analyst"],
+    "domain": ["Investment Banking", "Private Equity"],
+    "time": "4 months",
+    "category": "Finance"
+  },
+  {
+    "id": "cfa",
+    "skillName": "CFA (Chartered Financial Analyst)",
+    "skillLevel": 5,
+    "jobs": ["Portfolio Manager", "Investment Analyst", "Wealth Manager", "Financial Advisor"],
+    "domain": ["Wealth Management", "Investment Banking"],
+    "time": "2-3 years",
+    "category": "Certification"
+  },
+  {
+    "id": "cpa",
+    "skillName": "CPA (Certified Public Accountant)",
+    "skillLevel": 5,
+    "jobs": ["Accountant", "Auditor", "Tax Accountant", "Controller"],
+    "domain": ["Finance & Accounting", "Tax Advisory"],
+    "time": "1-2 years",
+    "category": "Certification"
+  },
+  {
+    "id": "tax-preparation",
+    "skillName": "Tax Preparation",
+    "skillLevel": 4,
+    "jobs": ["Tax Accountant", "Tax Advisor", "Tax Preparer"],
+    "domain": ["Tax Advisory", "Finance & Accounting"],
+    "time": "4 months",
+    "category": "Finance"
+  },
+  {
+    "id": "auditing",
+    "skillName": "Auditing",
+    "skillLevel": 4,
+    "jobs": ["Auditor", "Internal Auditor", "External Auditor"],
+    "domain": ["Finance & Accounting"],
+    "time": "6 months",
+    "category": "Finance"
+  },
+  {
+    "id": "investment-analysis",
+    "skillName": "Investment Analysis",
+    "skillLevel": 4,
+    "jobs": ["Investment Analyst", "Equity Research Analyst", "Portfolio Manager"],
+    "domain": ["Wealth Management", "Investment Banking"],
+    "time": "4 months",
+    "category": "Finance"
+  },
+  {
+    "id": "underwriting",
+    "skillName": "Insurance Underwriting",
+    "skillLevel": 4,
+    "jobs": ["Underwriter", "Insurance Analyst", "Risk Underwriter"],
+    "domain": ["Insurance"],
+    "time": "6 months",
+    "category": "Insurance"
+  },
+  {
+    "id": "claims-processing",
+    "skillName": "Claims Processing",
+    "skillLevel": 3,
+    "jobs": ["Claims Adjuster", "Claims Processor", "Insurance Claims Specialist"],
+    "domain": ["Insurance"],
+    "time": "3 months",
+    "category": "Insurance"
+  },
+  {
+    "id": "actuarial-science",
+    "skillName": "Actuarial Science",
+    "skillLevel": 5,
+    "jobs": ["Actuary", "Actuarial Analyst", "Risk Actuary"],
+    "domain": ["Insurance", "Finance & Accounting"],
+    "time": "3-5 years",
+    "category": "Finance"
+  },
+  {
+    "id": "banking-operations",
+    "skillName": "Banking Operations",
+    "skillLevel": 3,
+    "jobs": ["Bank Teller", "Banking Associate", "Operations Officer"],
+    "domain": ["Banking"],
+    "time": "3 months",
+    "category": "Banking"
+  },
+  {
+    "id": "credit-analysis",
+    "skillName": "Credit Analysis",
+    "skillLevel": 4,
+    "jobs": ["Credit Analyst", "Loan Officer", "Risk Analyst"],
+    "domain": ["Banking"],
+    "time": "4 months",
+    "category": "Banking"
+  },
+  {
+    "id": "aml-kyc",
+    "skillName": "AML/KYC Compliance",
+    "skillLevel": 4,
+    "jobs": ["AML Analyst", "KYC Analyst", "Compliance Officer"],
+    "domain": ["Compliance & Regulatory", "Banking"],
+    "time": "4 months",
+    "category": "Compliance"
+  },
+  {
+    "id": "mbbs",
+    "skillName": "MBBS Degree",
+    "skillLevel": 5,
+    "jobs": ["Doctor", "Physician", "General Practitioner", "Resident Doctor"],
+    "domain": ["Medicine"],
+    "time": "5-6 years",
+    "category": "Education"
+  },
+  {
+    "id": "medical-diagnosis",
+    "skillName": "Medical Diagnosis",
+    "skillLevel": 5,
+    "jobs": ["Doctor", "Physician", "Specialist Doctor"],
+    "domain": ["Medicine"],
+    "time": "3-5 years",
+    "category": "Medical"
+  },
+  {
+    "id": "patient-care",
+    "skillName": "Patient Care",
+    "skillLevel": 4,
+    "jobs": ["Nurse", "Doctor", "Caregiver", "Patient Care Technician"],
+    "domain": ["Medicine", "Nursing", "Elder Care"],
+    "time": "6 months",
+    "category": "Medical"
+  },
+  {
+    "id": "surgical-skills",
+    "skillName": "Surgical Skills",
+    "skillLevel": 5,
+    "jobs": ["Surgeon", "Cardiac Surgeon", "Neurosurgeon", "Orthopedic Surgeon"],
+    "domain": ["Medicine"],
+    "time": "5-8 years",
+    "category": "Medical"
+  },
+  {
+    "id": "nursing-care",
+    "skillName": "Nursing Care",
+    "skillLevel": 4,
+    "jobs": ["Registered Nurse", "ICU Nurse", "ER Nurse", "Nursing Manager"],
+    "domain": ["Nursing"],
+    "time": "2-4 years",
+    "category": "Medical"
+  },
+  {
+    "id": "bsn",
+    "skillName": "BSN (Bachelor of Science in Nursing)",
+    "skillLevel": 5,
+    "jobs": ["Registered Nurse", "Nurse Practitioner", "Clinical Nurse Specialist"],
+    "domain": ["Nursing"],
+    "time": "4 years",
+    "category": "Education"
+  },
+  {
+    "id": "pharmacology",
+    "skillName": "Pharmacology",
+    "skillLevel": 5,
+    "jobs": ["Pharmacist", "Clinical Pharmacist", "Pharmaceutical Sales Rep"],
+    "domain": ["Pharmacy", "Pharmaceutical Industry"],
+    "time": "4-6 years",
+    "category": "Medical"
+  },
+  {
+    "id": "pharmacy-practice",
+    "skillName": "Pharmacy Practice",
+    "skillLevel": 4,
+    "jobs": ["Pharmacist", "Pharmacy Technician", "Pharmacy Manager"],
+    "domain": ["Pharmacy"],
+    "time": "4-6 years",
+    "category": "Medical"
+  },
+  {
+    "id": "dental-procedures",
+    "skillName": "Dental Procedures",
+    "skillLevel": 5,
+    "jobs": ["Dentist", "Oral Surgeon", "Orthodontist"],
+    "domain": ["Dentistry"],
+    "time": "4-6 years",
+    "category": "Medical"
+  },
+  {
+    "id": "dental-hygiene",
+    "skillName": "Dental Hygiene",
+    "skillLevel": 4,
+    "jobs": ["Dental Hygienist", "Dental Assistant"],
+    "domain": ["Dentistry"],
+    "time": "2-3 years",
+    "category": "Medical"
+  },
+  {
+    "id": "psychology",
+    "skillName": "Psychology",
+    "skillLevel": 5,
+    "jobs": ["Psychologist", "Mental Health Counselor", "Therapist"],
+    "domain": ["Mental Health"],
+    "time": "6-8 years",
+    "category": "Medical"
+  },
+  {
+    "id": "cognitive-behavioral-therapy",
+    "skillName": "Cognitive Behavioral Therapy",
+    "skillLevel": 5,
+    "jobs": ["Therapist", "Psychologist", "Counselor", "Behavioral Therapist"],
+    "domain": ["Mental Health"],
+    "time": "2-3 years",
+    "category": "Medical"
+  },
+  {
+    "id": "physical-therapy-techniques",
+    "skillName": "Physical Therapy Techniques",
+    "skillLevel": 4,
+    "jobs": ["Physical Therapist", "Sports Therapist", "Rehabilitation Specialist"],
+    "domain": ["Physical Therapy", "Sports Medicine"],
+    "time": "3-4 years",
+    "category": "Medical"
+  },
+  {
+    "id": "dpt",
+    "skillName": "DPT (Doctor of Physical Therapy)",
+    "skillLevel": 5,
+    "jobs": ["Physical Therapist", "Sports Therapist"],
+    "domain": ["Physical Therapy"],
+    "time": "3-4 years",
+    "category": "Education"
+  },
+  {
+    "id": "clinical-research",
+    "skillName": "Clinical Research",
+    "skillLevel": 4,
+    "jobs": ["Clinical Research Associate", "Research Scientist", "Clinical Trial Manager"],
+    "domain": ["Medical Research", "Pharmaceutical Industry"],
+    "time": "2-3 years",
+    "category": "Research"
+  },
+  {
+    "id": "epidemiology",
+    "skillName": "Epidemiology",
+    "skillLevel": 5,
+    "jobs": ["Epidemiologist", "Public Health Officer", "Disease Investigator"],
+    "domain": ["Public Health"],
+    "time": "2-4 years",
+    "category": "Medical"
+  },
+  {
+    "id": "healthcare-management",
+    "skillName": "Healthcare Management",
+    "skillLevel": 4,
+    "jobs": ["Hospital Administrator", "Healthcare Manager", "Clinical Operations Manager"],
+    "domain": ["Healthcare Administration"],
+    "time": "2-3 years",
+    "category": "Management"
+  },
+  {
+    "id": "health-informatics",
+    "skillName": "Health Informatics",
+    "skillLevel": 4,
+    "jobs": ["Health Informaticist", "Clinical Informatics Specialist", "EHR Specialist"],
+    "domain": ["Health Informatics"],
+    "time": "2-3 years",
+    "category": "Technology"
+  },
+  {
+    "id": "ehr-systems",
+    "skillName": "EHR/EMR Systems",
+    "skillLevel": 3,
+    "jobs": ["Health IT Manager", "EHR Specialist", "Clinical Informatics Specialist"],
+    "domain": ["Health Informatics", "Healthcare Administration"],
+    "time": "6 months",
+    "category": "Technology"
+  },
+  {
+    "id": "veterinary-medicine",
+    "skillName": "Veterinary Medicine",
+    "skillLevel": 5,
+    "jobs": ["Veterinarian", "Animal Surgeon", "Zoo Veterinarian"],
+    "domain": ["Veterinary Medicine"],
+    "time": "4-6 years",
+    "category": "Medical"
+  },
+  {
+    "id": "biotechnology-fundamentals",
+    "skillName": "Biotechnology Fundamentals",
+    "skillLevel": 4,
+    "jobs": ["Biotechnologist", "Biotech Researcher", "Genetic Engineer"],
+    "domain": ["Biotechnology", "Synthetic Biology"],
+    "time": "4-6 years",
+    "category": "Science"
+  },
+  {
+    "id": "genetic-engineering",
+    "skillName": "Genetic Engineering",
+    "skillLevel": 5,
+    "jobs": ["Genetic Engineer", "CRISPR Specialist", "Molecular Biologist"],
+    "domain": ["Biotechnology", "Synthetic Biology", "Personalized Medicine"],
+    "time": "4-6 years",
+    "category": "Science"
+  },
+  {
+    "id": "bioinformatics",
+    "skillName": "Bioinformatics",
+    "skillLevel": 5,
+    "jobs": ["Bioinformatics Specialist", "Computational Biologist", "Genomics Data Analyst"],
+    "domain": ["Biotechnology", "Data Science"],
+    "time": "3-4 years",
+    "category": "Science"
+  },
+  {
+    "id": "drug-development",
+    "skillName": "Drug Development",
+    "skillLevel": 5,
+    "jobs": ["Drug Developer", "Pharmaceutical Scientist", "Clinical Development Manager"],
+    "domain": ["Pharmaceutical Industry"],
+    "time": "4-6 years",
+    "category": "Science"
+  },
+  {
+    "id": "regulatory-affairs",
+    "skillName": "Regulatory Affairs",
+    "skillLevel": 4,
+    "jobs": ["Regulatory Affairs Specialist", "Compliance Manager", "Regulatory Scientist"],
+    "domain": ["Pharmaceutical Industry", "Medical Devices", "Compliance & Regulatory"],
+    "time": "2-3 years",
+    "category": "Compliance"
+  },
+  {
+    "id": "legal-research",
+    "skillName": "Legal Research",
+    "skillLevel": 4,
+    "jobs": ["Lawyer", "Paralegal", "Legal Analyst", "Associate Attorney"],
+    "domain": ["Law", "Corporate Law", "Criminal Law"],
+    "time": "6 months",
+    "category": "Legal"
+  },
+  {
+    "id": "contract-drafting",
+    "skillName": "Contract Drafting",
+    "skillLevel": 4,
+    "jobs": ["Corporate Lawyer", "Contract Attorney", "Legal Counsel"],
+    "domain": ["Corporate Law", "Law"],
+    "time": "1-2 years",
+    "category": "Legal"
+  },
+  {
+    "id": "litigation",
+    "skillName": "Litigation",
+    "skillLevel": 5,
+    "jobs": ["Litigation Attorney", "Trial Lawyer", "Criminal Defense Attorney"],
+    "domain": ["Law", "Criminal Law"],
+    "time": "3-5 years",
+    "category": "Legal"
+  },
+  {
+    "id": "jd-degree",
+    "skillName": "JD (Juris Doctor) Degree",
+    "skillLevel": 5,
+    "jobs": ["Lawyer", "Attorney", "Judge"],
+    "domain": ["Law", "Corporate Law", "Criminal Law", "Intellectual Property"],
+    "time": "3 years",
+    "category": "Education"
+  },
+  {
+    "id": "bar-exam",
+    "skillName": "Bar Exam Certification",
+    "skillLevel": 5,
+    "jobs": ["Lawyer", "Attorney", "Legal Counsel"],
+    "domain": ["Law"],
+    "time": "6 months",
+    "category": "Certification"
+  },
+  {
+    "id": "mergers-acquisitions",
+    "skillName": "Mergers & Acquisitions",
+    "skillLevel": 5,
+    "jobs": ["M&A Attorney", "M&A Analyst", "Investment Banker"],
+    "domain": ["Corporate Law", "Investment Banking"],
+    "time": "2-4 years",
+    "category": "Legal"
+  },
+  {
+    "id": "patent-law",
+    "skillName": "Patent Law",
+    "skillLevel": 5,
+    "jobs": ["Patent Attorney", "IP Lawyer", "Patent Agent"],
+    "domain": ["Intellectual Property"],
+    "time": "3-5 years",
+    "category": "Legal"
+  },
+  {
+    "id": "trademark-law",
+    "skillName": "Trademark Law",
+    "skillLevel": 4,
+    "jobs": ["Trademark Attorney", "IP Lawyer"],
+    "domain": ["Intellectual Property"],
+    "time": "2-3 years",
+    "category": "Legal"
+  },
+  {
+    "id": "corporate-compliance",
+    "skillName": "Corporate Compliance",
+    "skillLevel": 4,
+    "jobs": ["Compliance Officer", "Chief Compliance Officer", "Regulatory Analyst"],
+    "domain": ["Compliance & Regulatory", "Corporate Law"],
+    "time": "2-3 years",
+    "category": "Compliance"
+  },
+  {
+    "id": "gdpr-compliance",
+    "skillName": "GDPR Compliance",
+    "skillLevel": 4,
+    "jobs": ["Data Privacy Officer", "Privacy Counsel", "Compliance Analyst"],
+    "domain": ["Data Privacy & Protection", "Compliance & Regulatory"],
+    "time": "6 months",
+    "category": "Compliance"
+  },
+  {
+    "id": "curriculum-development",
+    "skillName": "Curriculum Development",
+    "skillLevel": 4,
+    "jobs": ["Instructional Designer", "Curriculum Developer", "Teacher"],
+    "domain": ["K-12 Education", "Higher Education", "Educational Technology"],
+    "time": "1-2 years",
+    "category": "Education"
+  },
+  {
+    "id": "classroom-management",
+    "skillName": "Classroom Management",
+    "skillLevel": 3,
+    "jobs": ["Teacher", "Professor", "School Counselor"],
+    "domain": ["K-12 Education", "Higher Education"],
+    "time": "1 year",
+    "category": "Education"
+  },
+  {
+    "id": "teaching-certification",
+    "skillName": "Teaching Certification",
+    "skillLevel": 4,
+    "jobs": ["Teacher", "Elementary Teacher", "High School Teacher"],
+    "domain": ["K-12 Education"],
+    "time": "1-2 years",
+    "category": "Certification"
+  },
+  {
+    "id": "phd",
+    "skillName": "PhD",
+    "skillLevel": 5,
+    "jobs": ["Professor", "Research Scientist", "Dean"],
+    "domain": ["Higher Education"],
+    "time": "4-7 years",
+    "category": "Education"
+  },
+  {
+    "id": "special-education",
+    "skillName": "Special Education",
+    "skillLevel": 4,
+    "jobs": ["Special Education Teacher", "Learning Specialist", "Inclusion Specialist"],
+    "domain": ["K-12 Education"],
+    "time": "2-3 years",
+    "category": "Education"
+  },
+  {
+    "id": "instructional-design",
+    "skillName": "Instructional Design",
+    "skillLevel": 4,
+    "jobs": ["Instructional Designer", "E-Learning Developer", "Learning Experience Designer"],
+    "domain": ["Educational Technology", "Corporate Training"],
+    "time": "6 months",
+    "category": "Education"
+  },
+  {
+    "id": "lms-administration",
+    "skillName": "LMS Administration",
+    "skillLevel": 3,
+    "jobs": ["LMS Administrator", "E-Learning Manager", "Training Coordinator"],
+    "domain": ["Educational Technology", "Corporate Training"],
+    "time": "3 months",
+    "category": "Technology"
+  },
+  {
+    "id": "mechanical-design",
+    "skillName": "Mechanical Design",
+    "skillLevel": 4,
+    "jobs": ["Mechanical Engineer", "Design Engineer", "Product Designer"],
+    "domain": ["Mechanical Engineering"],
+    "time": "3-4 years",
+    "category": "Engineering"
+  },
+  {
+    "id": "cad-software",
+    "skillName": "CAD Software (AutoCAD, SolidWorks)",
+    "skillLevel": 4,
+    "jobs": ["CAD Engineer", "Mechanical Engineer", "Design Engineer", "Architect"],
+    "domain": ["Mechanical Engineering", "Architecture", "Civil Engineering"],
+    "time": "4 months",
+    "category": "Tools"
+  },
+  {
+    "id": "thermodynamics",
+    "skillName": "Thermodynamics",
+    "skillLevel": 4,
+    "jobs": ["Mechanical Engineer", "Thermal Engineer", "HVAC Engineer"],
+    "domain": ["Mechanical Engineering", "Chemical Engineering"],
+    "time": "6 months",
+    "category": "Engineering"
+  },
+  {
+    "id": "circuit-design",
+    "skillName": "Circuit Design",
+    "skillLevel": 4,
+    "jobs": ["Electrical Engineer", "Electronics Engineer", "PCB Designer"],
+    "domain": ["Electrical Engineering", "Embedded Systems"],
+    "time": "6 months",
+    "category": "Engineering"
+  },
+  {
+    "id": "power-systems",
+    "skillName": "Power Systems",
+    "skillLevel": 4,
+    "jobs": ["Power Systems Engineer", "Electrical Engineer", "Grid Engineer"],
+    "domain": ["Electrical Engineering", "Renewable Energy"],
+    "time": "4-6 months",
+    "category": "Engineering"
+  },
+  {
+    "id": "plc-programming",
+    "skillName": "PLC Programming",
+    "skillLevel": 4,
+    "jobs": ["Controls Engineer", "Automation Engineer", "PLC Programmer"],
+    "domain": ["Electrical Engineering", "Manufacturing", "Robotics"],
+    "time": "3 months",
+    "category": "Engineering"
+  },
+  {
+    "id": "structural-analysis",
+    "skillName": "Structural Analysis",
+    "skillLevel": 4,
+    "jobs": ["Structural Engineer", "Civil Engineer", "Construction Engineer"],
+    "domain": ["Civil Engineering", "Architecture"],
+    "time": "1-2 years",
+    "category": "Engineering"
+  },
+  {
+    "id": "construction-management",
+    "skillName": "Construction Management",
+    "skillLevel": 4,
+    "jobs": ["Construction Manager", "Site Manager", "Project Engineer"],
+    "domain": ["Construction Management"],
+    "time": "2-3 years",
+    "category": "Management"
+  },
+  {
+    "id": "bim",
+    "skillName": "BIM (Building Information Modeling)",
+    "skillLevel": 4,
+    "jobs": ["BIM Manager", "Architect", "Civil Engineer"],
+    "domain": ["Architecture", "Civil Engineering", "Construction Management"],
+    "time": "4 months",
+    "category": "Tools"
+  },
+  {
+    "id": "aerospace-design",
+    "skillName": "Aerospace Design",
+    "skillLevel": 5,
+    "jobs": ["Aerospace Engineer", "Aircraft Designer", "Space Systems Engineer"],
+    "domain": ["Aerospace Engineering", "Space Industry"],
+    "time": "4-6 years",
+    "category": "Engineering"
+  },
+  {
+    "id": "avionics",
+    "skillName": "Avionics",
+    "skillLevel": 4,
+    "jobs": ["Avionics Engineer", "Flight Systems Engineer"],
+    "domain": ["Aerospace Engineering"],
+    "time": "2-3 years",
+    "category": "Engineering"
+  },
+  {
+    "id": "automotive-design",
+    "skillName": "Automotive Design",
+    "skillLevel": 4,
+    "jobs": ["Automotive Engineer", "Vehicle Designer", "Automotive Designer"],
+    "domain": ["Automotive Engineering"],
+    "time": "3-4 years",
+    "category": "Engineering"
+  },
+  {
+    "id": "ev-technology",
+    "skillName": "Electric Vehicle Technology",
+    "skillLevel": 4,
+    "jobs": ["EV Engineer", "Battery Engineer", "Powertrain Engineer"],
+    "domain": ["Automotive Engineering", "Battery Technology"],
+    "time": "2-3 years",
+    "category": "Engineering"
+  },
+  {
+    "id": "robotics-programming",
+    "skillName": "Robotics Programming",
+    "skillLevel": 5,
+    "jobs": ["Robotics Engineer", "Robot Programmer", "Automation Engineer"],
+    "domain": ["Robotics", "Manufacturing"],
+    "time": "1-2 years",
+    "category": "Programming"
+  },
+  {
+    "id": "ros",
+    "skillName": "ROS (Robot Operating System)",
+    "skillLevel": 4,
+    "jobs": ["Robotics Engineer", "ROS Developer", "Automation Engineer"],
+    "domain": ["Robotics"],
+    "time": "4 months",
+    "category": "Framework"
+  },
+  {
+    "id": "manufacturing-processes",
+    "skillName": "Manufacturing Processes",
+    "skillLevel": 4,
+    "jobs": ["Manufacturing Engineer", "Production Manager", "Process Engineer"],
+    "domain": ["Manufacturing"],
+    "time": "2-3 years",
+    "category": "Engineering"
+  },
+  {
+    "id": "lean-manufacturing",
+    "skillName": "Lean Manufacturing",
+    "skillLevel": 4,
+    "jobs": ["Lean Engineer", "Process Improvement Manager", "Operations Manager"],
+    "domain": ["Manufacturing", "Operations Management"],
+    "time": "3 months",
+    "category": "Methodology"
+  },
+  {
+    "id": "six-sigma",
+    "skillName": "Six Sigma",
+    "skillLevel": 4,
+    "jobs": ["Quality Engineer", "Six Sigma Black Belt", "Process Improvement Manager"],
+    "domain": ["Manufacturing", "Quality Assurance", "Operations Management"],
+    "time": "3-6 months",
+    "category": "Certification"
+  },
+  {
+    "id": "architectural-design",
+    "skillName": "Architectural Design",
+    "skillLevel": 5,
+    "jobs": ["Architect", "Architectural Designer", "Principal Architect"],
+    "domain": ["Architecture"],
+    "time": "5-7 years",
+    "category": "Design"
+  },
+  {
+    "id": "revit",
+    "skillName": "Revit",
+    "skillLevel": 4,
+    "jobs": ["Architect", "BIM Manager", "Architectural Designer"],
+    "domain": ["Architecture", "Civil Engineering"],
+    "time": "3 months",
+    "category": "Tools"
+  },
+  {
+    "id": "sustainable-design",
+    "skillName": "Sustainable Design",
+    "skillLevel": 4,
+    "jobs": ["Architect", "Sustainability Consultant", "Green Building Consultant"],
+    "domain": ["Architecture", "Environmental Science"],
+    "time": "6 months",
+    "category": "Design"
+  },
+  {
+    "id": "interior-design-principles",
+    "skillName": "Interior Design Principles",
+    "skillLevel": 4,
+    "jobs": ["Interior Designer", "Space Planner", "Commercial Designer"],
+    "domain": ["Interior Design"],
+    "time": "2-4 years",
+    "category": "Design"
+  },
+  {
+    "id": "space-planning",
+    "skillName": "Space Planning",
+    "skillLevel": 3,
+    "jobs": ["Space Planner", "Interior Designer", "Facilities Manager"],
+    "domain": ["Interior Design"],
+    "time": "6 months",
+    "category": "Design"
+  },
+  {
+    "id": "hotel-operations",
+    "skillName": "Hotel Operations",
+    "skillLevel": 4,
+    "jobs": ["Hotel Manager", "Front Desk Manager", "General Manager"],
+    "domain": ["Hospitality Management"],
+    "time": "2-3 years",
+    "category": "Management"
+  },
+  {
+    "id": "food-service-management",
+    "skillName": "Food Service Management",
+    "skillLevel": 4,
+    "jobs": ["Restaurant Manager", "Food Service Manager", "General Manager"],
+    "domain": ["Restaurant Management"],
+    "time": "2-3 years",
+    "category": "Management"
+  },
+  {
+    "id": "culinary-techniques",
+    "skillName": "Culinary Techniques",
+    "skillLevel": 4,
+    "jobs": ["Chef", "Sous Chef", "Executive Chef"],
+    "domain": ["Culinary Arts"],
+    "time": "2-4 years",
+    "category": "Culinary"
+  },
+  {
+    "id": "event-planning",
+    "skillName": "Event Planning",
+    "skillLevel": 3,
+    "jobs": ["Event Planner", "Wedding Planner", "Event Coordinator"],
+    "domain": ["Event Management"],
+    "time": "1-2 years",
+    "category": "Management"
+  },
+  {
+    "id": "tourism-management",
+    "skillName": "Tourism Management",
+    "skillLevel": 4,
+    "jobs": ["Tourism Manager", "Destination Manager", "Travel Consultant"],
+    "domain": ["Tourism"],
+    "time": "2-3 years",
+    "category": "Management"
+  },
+  {
+    "id": "visual-merchandising",
+    "skillName": "Visual Merchandising",
+    "skillLevel": 3,
+    "jobs": ["Visual Merchandiser", "Store Manager", "Retail Designer"],
+    "domain": ["Retail Management"],
+    "time": "6 months",
+    "category": "Retail"
+  },
+  {
+    "id": "ecommerce-platforms",
+    "skillName": "E-Commerce Platforms (Shopify, WooCommerce)",
+    "skillLevel": 3,
+    "jobs": ["E-Commerce Manager", "Online Store Manager", "Dropshipping Expert"],
+    "domain": ["E-Commerce"],
+    "time": "2 months",
+    "category": "Tools"
+  },
+  {
+    "id": "procurement",
+    "skillName": "Procurement",
+    "skillLevel": 4,
+    "jobs": ["Procurement Manager", "Buyer", "Supply Chain Manager"],
+    "domain": ["Supply Chain Management"],
+    "time": "2-3 years",
+    "category": "Operations"
+  },
+  {
+    "id": "inventory-management",
+    "skillName": "Inventory Management",
+    "skillLevel": 3,
+    "jobs": ["Inventory Manager", "Warehouse Manager", "Supply Chain Analyst"],
+    "domain": ["Supply Chain Management", "Logistics & Transportation"],
+    "time": "6 months",
+    "category": "Operations"
+  },
+  {
+    "id": "logistics-management",
+    "skillName": "Logistics Management",
+    "skillLevel": 4,
+    "jobs": ["Logistics Manager", "Distribution Manager", "Fleet Manager"],
+    "domain": ["Logistics & Transportation"],
+    "time": "2-3 years",
+    "category": "Management"
+  },
+  {
+    "id": "commercial-pilot-license",
+    "skillName": "Commercial Pilot License",
+    "skillLevel": 5,
+    "jobs": ["Commercial Pilot", "Airline Pilot", "Charter Pilot"],
+    "domain": ["Aviation"],
+    "time": "1-2 years",
+    "category": "Certification"
+  },
+  {
+    "id": "atc-certification",
+    "skillName": "Air Traffic Control Certification",
+    "skillLevel": 5,
+    "jobs": ["Air Traffic Controller"],
+    "domain": ["Aviation"],
+    "time": "2-3 years",
+    "category": "Certification"
+  },
+  {
+    "id": "journalism-writing",
+    "skillName": "Journalism Writing",
+    "skillLevel": 4,
+    "jobs": ["Journalist", "Reporter", "News Anchor"],
+    "domain": ["Journalism"],
+    "time": "2-4 years",
+    "category": "Writing"
+  },
+  {
+    "id": "investigative-journalism",
+    "skillName": "Investigative Journalism",
+    "skillLevel": 5,
+    "jobs": ["Investigative Journalist", "Reporter", "Correspondent"],
+    "domain": ["Journalism"],
+    "time": "3-5 years",
+    "category": "Writing"
+  },
+  {
+    "id": "broadcasting-skills",
+    "skillName": "Broadcasting Skills",
+    "skillLevel": 4,
+    "jobs": ["TV Producer", "News Anchor", "Radio Host"],
+    "domain": ["Broadcasting"],
+    "time": "2-3 years",
+    "category": "Media"
+  },
+  {
+    "id": "podcasting",
+    "skillName": "Podcasting",
+    "skillLevel": 3,
+    "jobs": ["Podcast Host", "Podcast Producer", "Content Creator"],
+    "domain": ["Broadcasting", "Creator Economy"],
+    "time": "3 months",
+    "category": "Media"
+  },
+  {
+    "id": "film-directing",
+    "skillName": "Film Directing",
+    "skillLevel": 5,
+    "jobs": ["Film Director", "TV Director", "Commercial Director"],
+    "domain": ["Film Production"],
+    "time": "5-10 years",
+    "category": "Film"
+  },
+  {
+    "id": "cinematography",
+    "skillName": "Cinematography",
+    "skillLevel": 5,
+    "jobs": ["Cinematographer", "Camera Operator", "Director of Photography"],
+    "domain": ["Film Production", "Photography"],
+    "time": "3-5 years",
+    "category": "Film"
+  },
+  {
+    "id": "screenwriting",
+    "skillName": "Screenwriting",
+    "skillLevel": 4,
+    "jobs": ["Screenwriter", "TV Writer", "Film Writer"],
+    "domain": ["Film Production", "Writing & Publishing"],
+    "time": "2-3 years",
+    "category": "Writing"
+  },
+  {
+    "id": "video-editing",
+    "skillName": "Video Editing",
+    "skillLevel": 3,
+    "jobs": ["Video Editor", "Film Editor", "Content Creator"],
+    "domain": ["Film Production", "Content Creation"],
+    "time": "3 months",
+    "category": "Media"
+  },
+  {
+    "id": "photography-skills",
+    "skillName": "Photography Skills",
+    "skillLevel": 4,
+    "jobs": ["Photographer", "Portrait Photographer", "Commercial Photographer"],
+    "domain": ["Photography"],
+    "time": "1-2 years",
+    "category": "Creative"
+  },
+  {
+    "id": "photo-editing",
+    "skillName": "Photo Editing",
+    "skillLevel": 3,
+    "jobs": ["Photo Editor", "Photographer", "Retoucher"],
+    "domain": ["Photography"],
+    "time": "3 months",
+    "category": "Creative"
+  },
+  {
+    "id": "music-theory",
+    "skillName": "Music Theory",
+    "skillLevel": 4,
+    "jobs": ["Music Producer", "Composer", "Musician"],
+    "domain": ["Music Production", "Performing Arts"],
+    "time": "1-2 years",
+    "category": "Music"
+  },
+  {
+    "id": "audio-engineering",
+    "skillName": "Audio Engineering",
+    "skillLevel": 4,
+    "jobs": ["Audio Engineer", "Sound Engineer", "Mixing Engineer"],
+    "domain": ["Music Production", "Broadcasting"],
+    "time": "2-3 years",
+    "category": "Music"
+  },
+  {
+    "id": "daw-software",
+    "skillName": "DAW Software (Pro Tools, Ableton)",
+    "skillLevel": 3,
+    "jobs": ["Music Producer", "Audio Engineer", "DJ"],
+    "domain": ["Music Production"],
+    "time": "4 months",
+    "category": "Tools"
+  },
+  {
+    "id": "acting",
+    "skillName": "Acting",
+    "skillLevel": 4,
+    "jobs": ["Actor", "Voice Actor", "Theater Artist"],
+    "domain": ["Performing Arts"],
+    "time": "2-4 years",
+    "category": "Performance"
+  },
+  {
+    "id": "voice-acting",
+    "skillName": "Voice Acting",
+    "skillLevel": 4,
+    "jobs": ["Voice Actor", "Voice Over Artist", "Narrator"],
+    "domain": ["Performing Arts", "AudioTech"],
+    "time": "1-2 years",
+    "category": "Performance"
+  },
+  {
+    "id": "creative-writing",
+    "skillName": "Creative Writing",
+    "skillLevel": 4,
+    "jobs": ["Author", "Novelist", "Screenwriter", "Copywriter"],
+    "domain": ["Writing & Publishing"],
+    "time": "2-3 years",
+    "category": "Writing"
+  },
+  {
+    "id": "publishing",
+    "skillName": "Publishing",
+    "skillLevel": 4,
+    "jobs": ["Publisher", "Literary Agent", "Book Editor"],
+    "domain": ["Writing & Publishing"],
+    "time": "3-5 years",
+    "category": "Publishing"
+  },
+  {
+    "id": "fashion-design-skills",
+    "skillName": "Fashion Design",
+    "skillLevel": 4,
+    "jobs": ["Fashion Designer", "Textile Designer", "Costume Designer"],
+    "domain": ["Fashion Design"],
+    "time": "3-4 years",
+    "category": "Design"
+  },
+  {
+    "id": "pattern-making",
+    "skillName": "Pattern Making",
+    "skillLevel": 4,
+    "jobs": ["Pattern Maker", "Fashion Designer", "Tailor"],
+    "domain": ["Fashion Design"],
+    "time": "1-2 years",
+    "category": "Design"
+  },
+  {
+    "id": "sports-coaching",
+    "skillName": "Sports Coaching",
+    "skillLevel": 4,
+    "jobs": ["Sports Coach", "Head Coach", "Athletic Director"],
+    "domain": ["Professional Sports", "Sports Management"],
+    "time": "3-5 years",
+    "category": "Sports"
+  },
+  {
+    "id": "personal-training",
+    "skillName": "Personal Training",
+    "skillLevel": 3,
+    "jobs": ["Personal Trainer", "Fitness Coach", "Strength Coach"],
+    "domain": ["Fitness & Wellness"],
+    "time": "6 months",
+    "category": "Fitness"
+  },
+  {
+    "id": "nutrition",
+    "skillName": "Nutrition",
+    "skillLevel": 4,
+    "jobs": ["Nutritionist", "Dietitian", "Wellness Coach"],
+    "domain": ["Fitness & Wellness"],
+    "time": "2-4 years",
+    "category": "Health"
+  },
+  {
+    "id": "yoga-instruction",
+    "skillName": "Yoga Instruction",
+    "skillLevel": 3,
+    "jobs": ["Yoga Instructor", "Wellness Coach", "Meditation Teacher"],
+    "domain": ["Fitness & Wellness"],
+    "time": "6 months",
+    "category": "Fitness"
+  },
+  {
+    "id": "agriculture-science",
+    "skillName": "Agricultural Science",
+    "skillLevel": 4,
+    "jobs": ["Agronomist", "Agricultural Engineer", "Crop Scientist"],
+    "domain": ["Agriculture"],
+    "time": "4-6 years",
+    "category": "Science"
+  },
+  {
+    "id": "farm-management",
+    "skillName": "Farm Management",
+    "skillLevel": 4,
+    "jobs": ["Farm Manager", "Agricultural Consultant", "Ranch Manager"],
+    "domain": ["Agriculture"],
+    "time": "2-3 years",
+    "category": "Management"
+  },
+  {
+    "id": "food-technology",
+    "skillName": "Food Technology",
+    "skillLevel": 4,
+    "jobs": ["Food Scientist", "Food Technologist", "R&D Scientist"],
+    "domain": ["Food Science", "FoodTech"],
+    "time": "4-6 years",
+    "category": "Science"
+  },
+  {
+    "id": "environmental-management",
+    "skillName": "Environmental Management",
+    "skillLevel": 4,
+    "jobs": ["Environmental Scientist", "Sustainability Manager", "Environmental Consultant"],
+    "domain": ["Environmental Science", "Climate Technology"],
+    "time": "2-4 years",
+    "category": "Science"
+  },
+  {
+    "id": "solar-energy",
+    "skillName": "Solar Energy Systems",
+    "skillLevel": 4,
+    "jobs": ["Solar Engineer", "Renewable Energy Specialist", "Solar Installer"],
+    "domain": ["Renewable Energy", "CleanTech"],
+    "time": "1-2 years",
+    "category": "Energy"
+  },
+  {
+    "id": "wind-energy",
+    "skillName": "Wind Energy Systems",
+    "skillLevel": 4,
+    "jobs": ["Wind Energy Engineer", "Renewable Energy Specialist"],
+    "domain": ["Renewable Energy", "CleanTech"],
+    "time": "1-2 years",
+    "category": "Energy"
+  },
+  {
+    "id": "petroleum-engineering",
+    "skillName": "Petroleum Engineering",
+    "skillLevel": 5,
+    "jobs": ["Petroleum Engineer", "Drilling Engineer", "Reservoir Engineer"],
+    "domain": ["Oil & Gas"],
+    "time": "4-6 years",
+    "category": "Engineering"
+  },
+  {
+    "id": "public-administration",
+    "skillName": "Public Administration",
+    "skillLevel": 4,
+    "jobs": ["Civil Servant", "Government Officer", "Public Administrator"],
+    "domain": ["Government Administration"],
+    "time": "2-4 years",
+    "category": "Government"
+  },
+  {
+    "id": "policy-analysis",
+    "skillName": "Policy Analysis",
+    "skillLevel": 4,
+    "jobs": ["Policy Analyst", "Policy Advisor", "Government Relations Manager"],
+    "domain": ["Public Policy", "Government Administration"],
+    "time": "2-3 years",
+    "category": "Government"
+  },
+  {
+    "id": "nonprofit-management",
+    "skillName": "Nonprofit Management",
+    "skillLevel": 4,
+    "jobs": ["Executive Director", "Program Manager", "Development Director"],
+    "domain": ["Non-Profit Management"],
+    "time": "3-5 years",
+    "category": "Management"
+  },
+  {
+    "id": "fundraising",
+    "skillName": "Fundraising",
+    "skillLevel": 4,
+    "jobs": ["Fundraiser", "Development Director", "Grant Writer"],
+    "domain": ["Non-Profit Management"],
+    "time": "2-3 years",
+    "category": "Finance"
+  },
+  {
+    "id": "grant-writing",
+    "skillName": "Grant Writing",
+    "skillLevel": 4,
+    "jobs": ["Grant Writer", "Development Officer", "Nonprofit Manager"],
+    "domain": ["Non-Profit Management"],
+    "time": "1 year",
+    "category": "Writing"
+  },
+  {
+    "id": "social-work-practice",
+    "skillName": "Social Work Practice",
+    "skillLevel": 4,
+    "jobs": ["Social Worker", "Case Manager", "Community Organizer"],
+    "domain": ["Social Work"],
+    "time": "4-6 years",
+    "category": "Social"
+  },
+  {
+    "id": "case-management",
+    "skillName": "Case Management",
+    "skillLevel": 3,
+    "jobs": ["Case Manager", "Social Worker", "Patient Advocate"],
+    "domain": ["Social Work", "Healthcare Administration"],
+    "time": "1-2 years",
+    "category": "Social"
+  },
+  {
+    "id": "strategy-consulting",
+    "skillName": "Strategy Consulting",
+    "skillLevel": 5,
+    "jobs": ["Strategy Consultant", "Management Consultant", "Partner"],
+    "domain": ["Management Consulting"],
+    "time": "3-5 years",
+    "category": "Consulting"
+  },
+  {
+    "id": "business-strategy",
+    "skillName": "Business Strategy",
+    "skillLevel": 5,
+    "jobs": ["Strategy Consultant", "CEO", "Director of Strategy"],
+    "domain": ["Management Consulting", "Entrepreneurship"],
+    "time": "3-5 years",
+    "category": "Strategy"
+  },
+  {
+    "id": "startup-fundamentals",
+    "skillName": "Startup Fundamentals",
+    "skillLevel": 4,
+    "jobs": ["Startup Founder", "Entrepreneur", "CEO"],
+    "domain": ["Entrepreneurship"],
+    "time": "1-2 years",
+    "category": "Business"
+  },
+  {
+    "id": "fundraising-vc",
+    "skillName": "VC Fundraising",
+    "skillLevel": 5,
+    "jobs": ["Startup Founder", "CEO", "Co-Founder"],
+    "domain": ["Entrepreneurship", "Venture Capital"],
+    "time": "1-2 years",
+    "category": "Finance"
+  },
+  {
+    "id": "ar-development",
+    "skillName": "AR Development",
+    "skillLevel": 5,
+    "jobs": ["AR Developer", "XR Designer", "Spatial Computing Engineer"],
+    "domain": ["AR/VR Development", "Metaverse"],
+    "time": "6 months",
+    "category": "Development"
+  },
+  {
+    "id": "vr-development",
+    "skillName": "VR Development",
+    "skillLevel": 5,
+    "jobs": ["VR Developer", "XR Designer", "Metaverse Developer"],
+    "domain": ["AR/VR Development", "Metaverse"],
+    "time": "6 months",
+    "category": "Development"
+  },
+  {
+    "id": "quantum-computing-basics",
+    "skillName": "Quantum Computing Basics",
+    "skillLevel": 5,
+    "jobs": ["Quantum Computing Researcher", "Quantum Software Developer"],
+    "domain": ["Quantum Computing"],
+    "time": "1-2 years",
+    "category": "Emerging Tech"
+  },
+  {
+    "id": "autonomous-systems",
+    "skillName": "Autonomous Systems",
+    "skillLevel": 5,
+    "jobs": ["AV Engineer", "Perception Engineer", "Robotics Engineer"],
+    "domain": ["Autonomous Vehicles", "Robotics"],
+    "time": "2-3 years",
+    "category": "Engineering"
+  },
+  {
+    "id": "sensor-fusion",
+    "skillName": "Sensor Fusion",
+    "skillLevel": 5,
+    "jobs": ["Sensor Fusion Engineer", "Perception Engineer", "AV Engineer"],
+    "domain": ["Autonomous Vehicles", "Robotics"],
+    "time": "1-2 years",
+    "category": "Engineering"
+  },
+  {
+    "id": "3d-printing-technology",
+    "skillName": "3D Printing Technology",
+    "skillLevel": 4,
+    "jobs": ["3D Printing Specialist", "Additive Manufacturing Engineer"],
+    "domain": ["3D Printing & Additive Manufacturing"],
+    "time": "6 months",
+    "category": "Manufacturing"
+  },
+  {
+    "id": "satellite-systems",
+    "skillName": "Satellite Systems",
+    "skillLevel": 5,
+    "jobs": ["Satellite Engineer", "Space Systems Analyst", "Orbital Mechanics Engineer"],
+    "domain": ["Space Industry", "SpaceTech"],
+    "time": "3-4 years",
+    "category": "Engineering"
+  },
+  {
+    "id": "drone-piloting",
+    "skillName": "Drone Piloting",
+    "skillLevel": 3,
+    "jobs": ["Drone Pilot", "UAV Operator", "Aerial Surveyor"],
+    "domain": ["Drone Technology"],
+    "time": "3 months",
+    "category": "Operations"
+  },
+  {
+    "id": "drone-programming",
+    "skillName": "Drone Programming",
+    "skillLevel": 4,
+    "jobs": ["Drone Engineer", "Drone Software Developer", "UAV Developer"],
+    "domain": ["Drone Technology"],
+    "time": "6 months",
+    "category": "Programming"
+  },
+  {
+    "id": "battery-engineering",
+    "skillName": "Battery Engineering",
+    "skillLevel": 5,
+    "jobs": ["Battery Engineer", "Energy Storage Specialist", "EV Battery Developer"],
+    "domain": ["Battery Technology", "Renewable Energy"],
+    "time": "3-4 years",
+    "category": "Engineering"
+  },
+  {
+    "id": "hydrogen-fuel-cells",
+    "skillName": "Hydrogen Fuel Cells",
+    "skillLevel": 5,
+    "jobs": ["Hydrogen Engineer", "Fuel Cell Developer", "Green Hydrogen Specialist"],
+    "domain": ["Hydrogen Energy", "CleanTech"],
+    "time": "2-3 years",
+    "category": "Engineering"
+  },
+  {
+    "id": "carbon-accounting",
+    "skillName": "Carbon Accounting",
+    "skillLevel": 4,
+    "jobs": ["Carbon Analyst", "ESG Analyst", "Sustainability Consultant"],
+    "domain": ["Carbon Markets", "Climate Technology"],
+    "time": "6 months",
+    "category": "Finance"
+  },
+  {
+    "id": "esg-analysis",
+    "skillName": "ESG Analysis",
+    "skillLevel": 4,
+    "jobs": ["ESG Analyst", "Sustainable Finance Advisor", "Impact Investor"],
+    "domain": ["Impact Investing", "Carbon Markets"],
+    "time": "6 months",
+    "category": "Finance"
+  },
+  {
+    "id": "prompt-engineering-skills",
+    "skillName": "Prompt Engineering",
+    "skillLevel": 4,
+    "jobs": ["Prompt Engineer", "AI Trainer", "LLM Specialist"],
+    "domain": ["Prompt Engineering", "Artificial Intelligence"],
+    "time": "3 months",
+    "category": "AI/ML"
+  },
+  {
+    "id": "llm-fine-tuning",
+    "skillName": "LLM Fine-Tuning",
+    "skillLevel": 5,
+    "jobs": ["ML Engineer", "AI Engineer", "LLM Specialist"],
+    "domain": ["Prompt Engineering", "Artificial Intelligence"],
+    "time": "4 months",
+    "category": "AI/ML"
+  },
+  {
+    "id": "ai-safety",
+    "skillName": "AI Safety & Alignment",
+    "skillLevel": 5,
+    "jobs": ["AI Safety Researcher", "Responsible AI Lead", "AI Ethics Officer"],
+    "domain": ["AI Ethics & Safety", "Artificial Intelligence"],
+    "time": "1-2 years",
+    "category": "AI/ML"
+  },
+  {
+    "id": "no-code-tools",
+    "skillName": "No-Code Tools (Bubble, Webflow)",
+    "skillLevel": 3,
+    "jobs": ["No-Code Developer", "Citizen Developer", "No-Code Consultant"],
+    "domain": ["No-Code Development"],
+    "time": "2 months",
+    "category": "Development"
+  },
+  {
+    "id": "zapier-automation",
+    "skillName": "Zapier & Automation",
+    "skillLevel": 2,
+    "jobs": ["Automation Specialist", "No-Code Developer", "Operations Manager"],
+    "domain": ["No-Code Development", "Operations Management"],
+    "time": "2 weeks",
+    "category": "Tools"
+  },
+  {
+    "id": "metaverse-development",
+    "skillName": "Metaverse Development",
+    "skillLevel": 5,
+    "jobs": ["Metaverse Architect", "Virtual World Designer", "Metaverse Developer"],
+    "domain": ["Metaverse", "AR/VR Development"],
+    "time": "6 months",
+    "category": "Development"
+  },
+  {
+    "id": "nft-development",
+    "skillName": "NFT Development",
+    "skillLevel": 4,
+    "jobs": ["NFT Developer", "Smart Contract Developer", "Digital Asset Manager"],
+    "domain": ["NFT & Digital Assets", "Blockchain & Web3"],
+    "time": "3 months",
+    "category": "Development"
+  },
+  {
+    "id": "telemedicine-systems",
+    "skillName": "Telemedicine Systems",
+    "skillLevel": 4,
+    "jobs": ["Telemedicine Physician", "Virtual Care Coordinator", "Telehealth Specialist"],
+    "domain": ["Telemedicine", "Health Informatics"],
+    "time": "6 months",
+    "category": "Healthcare"
+  },
+  {
+    "id": "vertical-farming-tech",
+    "skillName": "Vertical Farming Technology",
+    "skillLevel": 4,
+    "jobs": ["Vertical Farm Manager", "Indoor Agriculture Specialist", "Urban Farmer"],
+    "domain": ["Vertical Farming", "AgTech"],
+    "time": "6 months",
+    "category": "Agriculture"
+  },
+  {
+    "id": "hydroponics",
+    "skillName": "Hydroponics",
+    "skillLevel": 3,
+    "jobs": ["Hydroponics Expert", "Vertical Farm Manager", "Urban Farmer"],
+    "domain": ["Vertical Farming", "Agriculture"],
+    "time": "3 months",
+    "category": "Agriculture"
+  },
+  {
+    "id": "content-creation-skills",
+    "skillName": "Content Creation",
+    "skillLevel": 3,
+    "jobs": ["Content Creator", "YouTuber", "Influencer", "TikTok Creator"],
+    "domain": ["Creator Economy", "Content Creation"],
+    "time": "3 months",
+    "category": "Media"
+  },
+  {
+    "id": "youtube-growth",
+    "skillName": "YouTube Growth Strategy",
+    "skillLevel": 4,
+    "jobs": ["YouTuber", "Content Creator", "Video Producer"],
+    "domain": ["Creator Economy", "Content Creation"],
+    "time": "6 months",
+    "category": "Marketing"
+  },
+  {
+    "id": "communication-skills",
+    "skillName": "Communication Skills",
+    "skillLevel": 3,
+    "jobs": ["Manager", "Sales Representative", "Customer Service Representative", "Teacher"],
+    "domain": ["Sales", "Customer Service", "K-12 Education", "Human Resources"],
+    "time": "3 months",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "leadership",
+    "skillName": "Leadership",
+    "skillLevel": 4,
+    "jobs": ["Manager", "Director", "CEO", "Team Lead"],
+    "domain": ["Management Consulting", "Entrepreneurship", "Human Resources"],
+    "time": "2-3 years",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "problem-solving",
+    "skillName": "Problem Solving",
+    "skillLevel": 4,
+    "jobs": ["Consultant", "Engineer", "Analyst", "Developer"],
+    "domain": ["Management Consulting", "Software Development", "Data Science"],
+    "time": "1 year",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "critical-thinking",
+    "skillName": "Critical Thinking",
+    "skillLevel": 4,
+    "jobs": ["Analyst", "Researcher", "Consultant", "Lawyer"],
+    "domain": ["Management Consulting", "Law", "Data Science"],
+    "time": "1 year",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "time-management",
+    "skillName": "Time Management",
+    "skillLevel": 3,
+    "jobs": ["Project Manager", "Manager", "Freelancer"],
+    "domain": ["Project Management", "Entrepreneurship"],
+    "time": "3 months",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "teamwork",
+    "skillName": "Teamwork",
+    "skillLevel": 3,
+    "jobs": ["Team Member", "Collaborator", "Project Team Member"],
+    "domain": ["Project Management", "Software Development"],
+    "time": "6 months",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "public-speaking",
+    "skillName": "Public Speaking",
+    "skillLevel": 4,
+    "jobs": ["Executive", "Sales Manager", "Teacher", "Trainer"],
+    "domain": ["Sales", "K-12 Education", "Corporate Training"],
+    "time": "6 months",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "presentation-skills",
+    "skillName": "Presentation Skills",
+    "skillLevel": 3,
+    "jobs": ["Consultant", "Sales Representative", "Manager", "Teacher"],
+    "domain": ["Management Consulting", "Sales", "K-12 Education"],
+    "time": "3 months",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "emotional-intelligence",
+    "skillName": "Emotional Intelligence",
+    "skillLevel": 4,
+    "jobs": ["HR Manager", "Manager", "Therapist", "Coach"],
+    "domain": ["Human Resources", "Mental Health", "Corporate Training"],
+    "time": "1 year",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "adaptability",
+    "skillName": "Adaptability",
+    "skillLevel": 3,
+    "jobs": ["Consultant", "Startup Employee", "Manager"],
+    "domain": ["Management Consulting", "Entrepreneurship"],
+    "time": "1 year",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "creativity",
+    "skillName": "Creativity",
+    "skillLevel": 4,
+    "jobs": ["Designer", "Creative Director", "Artist", "Writer"],
+    "domain": ["Graphic Design", "UI/UX Design", "Writing & Publishing"],
+    "time": "Ongoing",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "attention-to-detail",
+    "skillName": "Attention to Detail",
+    "skillLevel": 3,
+    "jobs": ["Accountant", "QA Engineer", "Editor", "Auditor"],
+    "domain": ["Finance & Accounting", "Quality Assurance", "Writing & Publishing"],
+    "time": "6 months",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "conflict-resolution",
+    "skillName": "Conflict Resolution",
+    "skillLevel": 4,
+    "jobs": ["HR Manager", "Manager", "Mediator", "Therapist"],
+    "domain": ["Human Resources", "Mental Health"],
+    "time": "1 year",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "decision-making",
+    "skillName": "Decision Making",
+    "skillLevel": 4,
+    "jobs": ["Manager", "Executive", "CEO", "Consultant"],
+    "domain": ["Management Consulting", "Entrepreneurship"],
+    "time": "2 years",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "networking",
+    "skillName": "Networking",
+    "skillLevel": 3,
+    "jobs": ["Sales Representative", "Business Development Manager", "Entrepreneur"],
+    "domain": ["Sales", "Entrepreneurship"],
+    "time": "6 months",
+    "category": "Soft Skills"
+  },
+  {
+    "id": "customer-service-skills",
+    "skillName": "Customer Service Skills",
+    "skillLevel": 3,
+    "jobs": ["Customer Service Representative", "Support Agent", "Account Manager"],
+    "domain": ["Customer Service", "Customer Success"],
+    "time": "3 months",
+    "category": "Soft Skills"
+  , 
